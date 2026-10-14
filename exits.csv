@@ -1,0 +1,240 @@
+emp_id,exit_date,exit_type,exit_reason
+1002,2025-06-07,Voluntary,Work-life balance / overtime
+1004,2025-12-11,Voluntary,Further studies
+1006,2025-05-28,Voluntary,Better salary offer
+1007,2025-08-01,Voluntary,Better salary offer
+1014,2025-12-01,Voluntary,Work-life balance / overtime
+1023,2025-09-22,Voluntary,Career growth
+1024,2025-10-02,Involuntary,Restructuring
+1025,2025-06-23,Involuntary,Contract ended
+1029,2025-01-02,Voluntary,Further studies
+1033,2025-01-10,Voluntary,Work-life balance / overtime
+1037,2025-09-26,Voluntary,Career growth
+1048,2025-11-04,Voluntary,Work-life balance / overtime
+1050,2025-09-11,Involuntary,Contract ended
+1051,2025-01-13,Involuntary,Performance
+1055,2025-12-20,Voluntary,Better salary offer
+1058,2025-09-13,Involuntary,Contract ended
+1062,2025-11-30,Involuntary,Performance
+1065,2025-11-15,Involuntary,Restructuring
+1067,2025-04-22,Voluntary,Manager relationship
+1071,2025-09-09,Voluntary,Relocation out of UAE
+1072,2025-09-03,Voluntary,Better salary offer
+1074,2025-06-19,Voluntary,Career growth
+1078,2025-01-13,Voluntary,Better salary offer
+1079,2025-12-17,Voluntary,Work-life balance / overtime
+1092,2025-03-21,Involuntary,Restructuring
+1099,2025-09-05,Voluntary,Relocation out of UAE
+1103,2025-02-21,Voluntary,Manager relationship
+1107,2025-10-03,Voluntary,Career growth
+1109,2025-10-11,Involuntary,Restructuring
+1110,2025-12-11,Voluntary,Work-life balance / overtime
+1111,2025-08-17,Involuntary,Performance
+1114,2025-02-13,Voluntary,Work-life balance / overtime
+1122,2025-11-06,Voluntary,Better salary offer
+1125,2025-05-12,Involuntary,Performance
+1131,2025-05-31,Voluntary,Work-life balance / overtime
+1132,2025-04-03,Voluntary,Better salary offer
+1150,2025-05-12,Voluntary,Career growth
+1154,2025-04-28,Voluntary,Better salary offer
+1157,2025-07-22,Voluntary,Further studies
+1159,2025-07-05,Voluntary,Career growth
+1161,2025-10-25,Voluntary,Further studies
+1166,2025-06-05,Voluntary,Relocation out of UAE
+1173,2025-07-23,Voluntary,Further studies
+1176,2025-02-02,Voluntary,Relocation out of UAE
+1179,2025-06-15,Voluntary,Career growth
+1182,2025-12-10,Voluntary,Career growth
+1186,2025-10-09,Voluntary,Work-life balance / overtime
+1194,2025-06-04,Voluntary,Better salary offer
+1196,2025-09-14,Voluntary,Better salary offer
+1207,2025-01-05,Voluntary,Better salary offer
+1208,2025-11-18,Voluntary,Better salary offer
+1211,2025-07-30,Involuntary,Restructuring
+1220,2025-06-01,Involuntary,Contract ended
+1223,2025-02-09,Voluntary,Better salary offer
+1224,2025-10-26,Voluntary,Manager relationship
+1225,2025-07-14,Voluntary,Manager relationship
+1232,2025-09-08,Voluntary,Relocation out of UAE
+1235,2025-12-09,Voluntary,Career growth
+1237,2025-12-29,Voluntary,Relocation out of UAE
+1238,2025-10-24,Voluntary,Better salary offer
+1246,2025-08-15,Voluntary,Work-life balance / overtime
+1251,2025-07-20,Voluntary,Career growth
+1255,2025-12-31,Voluntary,Better salary offer
+1256,2025-07-04,Voluntary,Better salary offer
+1257,2025-09-01,Voluntary,Career growth
+1260,2025-12-13,Voluntary,Manager relationship
+1261,2025-08-28,Voluntary,Better salary offer
+1269,2025-02-14,Voluntary,Better salary offer
+1272,2025-10-17,Voluntary,Relocation out of UAE
+1281,2025-08-20,Voluntary,Career growth
+1286,2025-12-04,Voluntary,Career growth
+1287,2025-04-01,Voluntary,Relocation out of UAE
+1289,2025-09-03,Involuntary,Performance
+1291,2025-12-10,Voluntary,Better salary offer
+1293,2025-11-18,Involuntary,Performance
+1295,2025-04-01,Voluntary,Work-life balance / overtime
+1306,2025-09-25,Voluntary,Better salary offer
+1315,2025-12-09,Voluntary,Better salary offer
+1318,2025-12-12,Voluntary,Work-life balance / overtime
+1324,2025-08-17,Voluntary,Manager relationship
+1325,2025-10-14,Involuntary,Restructuring
+1326,2025-06-04,Involuntary,Restructuring
+1329,2025-09-22,Involuntary,Performance
+1337,2025-06-20,Voluntary,Career growth
+1339,2025-01-29,Voluntary,Better salary offer
+1340,2025-07-29,Voluntary,Better salary offer
+1341,2025-08-13,Involuntary,Restructuring
+1346,2025-09-10,Involuntary,Contract ended
+1347,2025-12-24,Voluntary,Better salary offer
+1353,2025-08-23,Voluntary,Better salary offer
+1355,2025-10-22,Voluntary,Further studies
+1362,2025-03-04,Involuntary,Restructuring
+1364,2025-07-25,Voluntary,Relocation out of UAE
+1366,2025-06-14,Voluntary,Better salary offer
+1373,2025-12-22,Voluntary,Better salary offer
+1376,2025-12-29,Involuntary,Performance
+1377,2025-04-27,Voluntary,Further studies
+1380,2025-09-28,Voluntary,Career growth
+1385,2025-07-06,Voluntary,Work-life balance / overtime
+1397,2025-11-29,Voluntary,Better salary offer
+1402,2025-07-08,Voluntary,Work-life balance / overtime
+1407,2025-06-01,Voluntary,Better salary offer
+1408,2025-12-05,Voluntary,Better salary offer
+1415,2025-12-30,Voluntary,Work-life balance / overtime
+1418,2025-08-28,Voluntary,Career growth
+1420,2025-05-02,Voluntary,Work-life balance / overtime
+1422,2025-05-14,Voluntary,Career growth
+1426,2025-09-22,Involuntary,Contract ended
+1427,2025-10-02,Voluntary,Better salary offer
+1428,2025-01-01,Voluntary,Manager relationship
+1431,2025-05-07,Voluntary,Better salary offer
+1433,2025-08-16,Involuntary,Contract ended
+1447,2025-10-10,Involuntary,Contract ended
+1448,2025-06-25,Voluntary,Relocation out of UAE
+1450,2025-07-07,Involuntary,Performance
+1451,2025-10-05,Voluntary,Career growth
+1456,2025-12-18,Involuntary,Restructuring
+1464,2025-10-31,Voluntary,Work-life balance / overtime
+1466,2025-02-03,Voluntary,Work-life balance / overtime
+1479,2025-06-25,Voluntary,Manager relationship
+1481,2025-10-13,Voluntary,Better salary offer
+1482,2025-12-10,Voluntary,Manager relationship
+1486,2025-12-29,Voluntary,Better salary offer
+1490,2025-07-29,Voluntary,Career growth
+1496,2025-09-08,Voluntary,Further studies
+1498,2025-08-26,Voluntary,Better salary offer
+1499,2025-09-09,Involuntary,Contract ended
+1501,2025-07-19,Voluntary,Relocation out of UAE
+1506,2025-06-05,Voluntary,Relocation out of UAE
+1508,2025-11-29,Voluntary,Manager relationship
+1510,2025-04-16,Voluntary,Relocation out of UAE
+1511,2025-12-07,Involuntary,Performance
+1512,2025-10-21,Involuntary,Contract ended
+1513,2025-09-11,Voluntary,Relocation out of UAE
+1515,2025-07-09,Voluntary,Work-life balance / overtime
+1519,2025-06-13,Voluntary,Career growth
+1521,2025-04-30,Voluntary,Better salary offer
+1522,2025-04-25,Voluntary,Manager relationship
+1523,2025-05-01,Voluntary,Work-life balance / overtime
+1524,2025-04-18,Voluntary,Career growth
+1527,2025-08-31,Voluntary,Career growth
+1528,2025-10-22,Involuntary,Performance
+1530,2025-02-24,Voluntary,Relocation out of UAE
+1531,2025-06-14,Voluntary,Better salary offer
+1533,2025-11-26,Voluntary,Better salary offer
+1536,2025-02-15,Voluntary,Better salary offer
+1541,2025-12-23,Voluntary,Work-life balance / overtime
+1549,2025-08-20,Voluntary,Career growth
+1550,2025-09-29,Voluntary,Relocation out of UAE
+1562,2025-08-29,Voluntary,Work-life balance / overtime
+1565,2025-08-02,Voluntary,Career growth
+1569,2025-11-03,Voluntary,Work-life balance / overtime
+1570,2025-08-28,Voluntary,Career growth
+1572,2025-08-30,Voluntary,Career growth
+1573,2025-02-04,Voluntary,Work-life balance / overtime
+1575,2025-10-09,Voluntary,Work-life balance / overtime
+1585,2025-10-02,Involuntary,Contract ended
+1589,2025-12-18,Voluntary,Relocation out of UAE
+1599,2025-08-16,Voluntary,Career growth
+1604,2025-04-10,Voluntary,Better salary offer
+1607,2025-06-29,Involuntary,Restructuring
+1609,2025-10-25,Involuntary,Contract ended
+1613,2025-09-14,Voluntary,Further studies
+1618,2025-09-06,Voluntary,Work-life balance / overtime
+1621,2025-05-22,Voluntary,Better salary offer
+1624,2025-03-02,Voluntary,Manager relationship
+1629,2025-10-25,Involuntary,Contract ended
+1631,2025-05-26,Involuntary,Performance
+1637,2025-10-20,Voluntary,Career growth
+1645,2025-02-09,Voluntary,Career growth
+1653,2025-11-30,Involuntary,Restructuring
+1659,2025-08-07,Involuntary,Restructuring
+1675,2025-01-10,Voluntary,Better salary offer
+1676,2025-03-30,Voluntary,Work-life balance / overtime
+1678,2025-11-03,Voluntary,Career growth
+1683,2025-10-15,Voluntary,Better salary offer
+1690,2025-05-23,Voluntary,Better salary offer
+1706,2025-10-11,Voluntary,Manager relationship
+1708,2025-07-02,Voluntary,Manager relationship
+1720,2025-06-22,Voluntary,Manager relationship
+1729,2025-10-07,Voluntary,Career growth
+1735,2025-08-30,Voluntary,Career growth
+1738,2025-05-01,Voluntary,Career growth
+1742,2025-10-23,Involuntary,Performance
+1747,2025-09-11,Involuntary,Performance
+1751,2025-02-10,Voluntary,Manager relationship
+1752,2025-08-14,Voluntary,Career growth
+1756,2025-12-27,Involuntary,Contract ended
+1757,2025-09-13,Involuntary,Restructuring
+1758,2025-08-19,Voluntary,Work-life balance / overtime
+1767,2025-05-09,Voluntary,Better salary offer
+1769,2025-08-27,Voluntary,Manager relationship
+1772,2025-01-02,Voluntary,Relocation out of UAE
+1777,2025-08-14,Voluntary,Career growth
+1778,2025-08-02,Voluntary,Career growth
+1781,2025-05-03,Voluntary,Manager relationship
+1792,2025-04-16,Voluntary,Career growth
+1804,2025-09-04,Voluntary,Career growth
+1807,2025-12-21,Voluntary,Better salary offer
+1809,2025-09-01,Voluntary,Relocation out of UAE
+1819,2025-12-01,Voluntary,Manager relationship
+1845,2025-11-07,Voluntary,Career growth
+1849,2025-12-25,Voluntary,Career growth
+1891,2025-09-26,Voluntary,Further studies
+1894,2025-10-25,Voluntary,Career growth
+1918,2025-07-25,Voluntary,Better salary offer
+1919,2025-05-10,Voluntary,Better salary offer
+1923,2025-08-16,Voluntary,Manager relationship
+1925,2025-11-28,Voluntary,Better salary offer
+1931,2025-12-15,Involuntary,Performance
+1936,2025-10-21,Voluntary,Career growth
+1938,2025-04-10,Voluntary,Further studies
+1945,2025-08-10,Voluntary,Work-life balance / overtime
+1948,2025-11-01,Voluntary,Career growth
+1959,2025-03-05,Voluntary,Better salary offer
+1960,2025-10-07,Voluntary,Career growth
+1973,2025-01-10,Voluntary,Career growth
+1986,2025-11-18,Voluntary,Career growth
+1993,2025-12-15,Voluntary,Work-life balance / overtime
+1995,2025-11-03,Voluntary,Career growth
+1998,2025-01-09,Voluntary,Career growth
+2002,2025-03-05,Voluntary,Work-life balance / overtime
+2022,2025-01-13,Voluntary,Better salary offer
+2027,2025-11-29,Involuntary,Restructuring
+2028,2025-12-26,Involuntary,Performance
+2029,2025-12-19,Voluntary,Better salary offer
+2059,2025-06-24,Voluntary,Better salary offer
+2063,2025-04-04,Involuntary,Contract ended
+2064,2025-12-31,Involuntary,Contract ended
+2065,2025-02-12,Voluntary,Better salary offer
+2067,2025-09-27,Voluntary,Career growth
+2089,2025-11-06,Voluntary,Career growth
+2090,2025-09-29,Voluntary,Better salary offer
+2097,2025-12-27,Voluntary,Better salary offer
+2101,2025-12-06,Involuntary,Performance
+2110,2025-04-16,Voluntary,Manager relationship
+2113,2025-03-31,Voluntary,Career growth
+2129,2025-08-23,Voluntary,Career growth
+2137,2025-12-24,Voluntary,Career growth

@@ -1,0 +1,8 @@
+dept_id,dept_name,division
+10,Sales,Commercial
+20,Customer Service,Operations
+30,Operations & Logistics,Operations
+40,Finance,Support Functions
+50,Human Resources,Support Functions
+60,IT,Support Functions
+70,Marketing,Commercial

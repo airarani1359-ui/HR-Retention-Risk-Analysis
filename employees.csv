@@ -1,0 +1,1141 @@
+emp_id,gender,age,nationality_group,education,dept_id,job_title,job_level,hire_date,monthly_salary_aed,overtime
+1001,Male,31,Expat,High School,10,Sales Associate,1,2017-09-09,4650,No
+1002,Male,27,Expat,Diploma,10,Sales Associate,1,2018-07-03,6250,Yes
+1003,Male,31,UAE National,Bachelor's,10,Sales Associate,1,2022-05-28,5600,No
+1004,Male,36,Expat,Bachelor's,10,Sales Associate,1,2025-08-11,5400,No
+1005,Male,24,Expat,Bachelor's,10,Sales Associate,1,2022-04-04,7150,Yes
+1006,Female,26,Expat,High School,10,Sales Associate,1,2022-06-25,6950,Yes
+1007,Male,21,Expat,Master's,10,Sales Associate,1,2025-04-04,5700,Yes
+1008,Male,31,Expat,Master's,10,Sales Executive,2,2018-01-16,8000,No
+1009,Female,40,Expat,Diploma,10,Sales Manager,3,2023-08-19,19300,No
+1010,Female,29,Expat,Master's,10,Sales Associate,1,2020-01-29,4700,Yes
+1011,Male,26,Expat,Diploma,10,Sales Associate,1,2021-06-04,4950,No
+1012,Male,23,Expat,Bachelor's,10,Sales Associate,1,2023-03-18,6600,Yes
+1013,Male,29,Expat,High School,10,Sales Executive,2,2024-07-03,12850,No
+1014,Male,28,Expat,Diploma,10,Sales Associate,1,2024-02-09,7350,Yes
+1015,Male,35,Expat,Bachelor's,10,Sales Executive,2,2017-05-06,12700,No
+1016,Female,24,Expat,Bachelor's,10,Sales Associate,1,2025-04-21,6900,Yes
+1017,Female,34,Expat,Diploma,10,Sales Executive,2,2017-02-24,13600,No
+1018,Male,32,Expat,Master's,10,Sales Associate,1,2024-04-18,5850,No
+1019,Male,31,Expat,Bachelor's,10,Sales Executive,2,2024-06-02,9050,No
+1020,Male,34,Expat,Bachelor's,10,Sales Associate,1,2017-02-04,6200,No
+1021,Male,22,Expat,Bachelor's,10,Sales Executive,2,2021-09-10,12200,No
+1022,Female,24,Expat,Bachelor's,10,Sales Associate,1,2018-05-21,6850,No
+1023,Male,30,Expat,Bachelor's,10,Sales Associate,1,2024-08-17,5000,No
+1024,Male,33,Expat,Bachelor's,10,Sales Associate,1,2024-04-17,4750,Yes
+1025,Male,31,Expat,Diploma,10,Sales Associate,1,2024-02-28,6900,Yes
+1026,Female,39,Expat,Diploma,10,Sales Manager,3,2019-01-02,15500,No
+1027,Male,34,Expat,Master's,10,Sales Associate,1,2021-08-10,5300,No
+1028,Male,29,Expat,Master's,10,Sales Associate,1,2020-05-29,5400,Yes
+1029,Female,34,Expat,Diploma,10,Sales Associate,1,2023-01-05,5250,Yes
+1030,Male,38,Expat,Diploma,10,Sales Director,4,2022-02-18,28600,No
+1031,Male,27,Expat,Master's,10,Sales Associate,1,2018-12-18,4950,No
+1032,Female,27,Expat,Bachelor's,10,Sales Associate,1,2024-05-28,4650,No
+1033,Female,34,Expat,High School,10,Sales Executive,2,2016-03-06,11500,No
+1034,Male,30,Expat,Bachelor's,10,Sales Associate,1,2016-01-14,4700,No
+1035,Male,30,Expat,Bachelor's,10,Sales Executive,2,2018-08-03,13850,No
+1036,Female,26,Expat,Bachelor's,10,Sales Executive,2,2022-12-19,8050,Yes
+1037,Female,39,Expat,Diploma,10,Sales Executive,2,2024-03-28,13600,Yes
+1038,Female,32,Expat,Bachelor's,10,Sales Executive,2,2023-01-31,13300,No
+1039,Female,35,UAE National,Master's,10,Sales Executive,2,2020-08-31,9900,No
+1040,Male,26,Expat,Bachelor's,10,Sales Associate,1,2025-03-14,6750,No
+1041,Male,33,Expat,Diploma,10,Sales Associate,1,2020-03-09,5800,Yes
+1042,Male,29,Expat,Diploma,10,Sales Executive,2,2019-03-18,13450,No
+1043,Male,31,UAE National,Bachelor's,10,Sales Associate,1,2022-04-01,4850,No
+1044,Male,23,Expat,High School,10,Sales Associate,1,2019-11-01,5450,Yes
+1045,Male,31,Expat,High School,10,Sales Associate,1,2016-09-11,6200,Yes
+1046,Male,24,Expat,High School,10,Sales Executive,2,2025-03-11,12250,No
+1047,Female,23,Expat,Bachelor's,10,Sales Associate,1,2024-06-04,6050,No
+1048,Female,22,Expat,High School,10,Sales Associate,1,2024-01-07,4900,Yes
+1049,Male,44,Expat,Bachelor's,10,Sales Director,4,2019-02-15,38950,No
+1050,Male,41,Expat,Bachelor's,10,Sales Associate,1,2020-10-04,5200,Yes
+1051,Female,25,Expat,Bachelor's,10,Sales Executive,2,2024-08-14,9600,No
+1052,Male,22,Expat,High School,10,Sales Associate,1,2025-02-06,5850,No
+1053,Male,30,Expat,Bachelor's,10,Sales Associate,1,2023-06-14,7000,No
+1054,Male,34,Expat,Bachelor's,10,Sales Executive,2,2025-03-20,8550,No
+1055,Male,34,Expat,Bachelor's,10,Sales Executive,2,2024-08-06,10250,No
+1056,Female,30,UAE National,High School,10,Sales Associate,1,2024-06-22,6900,No
+1057,Female,34,Expat,Diploma,10,Sales Executive,2,2017-06-27,9100,No
+1058,Male,22,Expat,Bachelor's,10,Sales Associate,1,2024-03-07,6450,No
+1059,Female,27,Expat,Bachelor's,10,Sales Associate,1,2017-06-28,6350,No
+1060,Male,26,Expat,Master's,10,Sales Associate,1,2024-10-15,7150,No
+1061,Female,29,Expat,Bachelor's,10,Sales Associate,1,2021-04-28,5200,No
+1062,Female,30,Expat,Diploma,10,Sales Associate,1,2018-11-30,6500,Yes
+1063,Female,32,Expat,High School,10,Sales Executive,2,2020-08-02,9100,Yes
+1064,Male,28,Expat,Bachelor's,10,Sales Associate,1,2019-01-15,5350,Yes
+1065,Male,24,Expat,Bachelor's,10,Sales Associate,1,2024-01-07,5800,Yes
+1066,Male,26,UAE National,Bachelor's,10,Sales Associate,1,2017-08-20,5000,Yes
+1067,Female,34,Expat,Master's,10,Sales Associate,1,2016-08-06,6400,Yes
+1068,Female,24,Expat,Bachelor's,10,Sales Associate,1,2024-09-09,7400,No
+1069,Male,30,Expat,Diploma,10,Sales Executive,2,2023-01-12,11900,Yes
+1070,Male,38,UAE National,Bachelor's,10,Sales Executive,2,2021-02-20,12850,No
+1071,Female,23,Expat,High School,10,Sales Associate,1,2024-03-23,6650,Yes
+1072,Female,26,Expat,Diploma,10,Sales Executive,2,2023-09-11,13600,Yes
+1073,Male,26,Expat,Bachelor's,10,Sales Associate,1,2019-07-30,5100,No
+1074,Female,33,Expat,Bachelor's,10,Sales Associate,1,2021-11-05,7150,Yes
+1075,Female,36,Expat,Master's,10,Sales Associate,1,2024-05-03,5400,No
+1076,Male,21,Expat,High School,10,Sales Associate,1,2021-09-30,4650,No
+1077,Female,34,Expat,High School,10,Sales Executive,2,2025-01-10,11750,No
+1078,Male,41,Expat,Master's,10,Sales Manager,3,2016-08-17,21200,Yes
+1079,Male,24,Expat,Bachelor's,10,Sales Associate,1,2025-07-18,6450,Yes
+1080,Male,23,Expat,Master's,10,Sales Associate,1,2025-06-20,7250,Yes
+1081,Male,38,Expat,High School,10,Sales Associate,1,2022-03-18,6550,No
+1082,Female,29,Expat,Bachelor's,10,Sales Executive,2,2025-02-02,9950,Yes
+1083,Male,33,Expat,Diploma,10,Sales Manager,3,2020-11-25,17550,No
+1084,Female,25,Expat,High School,10,Sales Associate,1,2024-05-21,6600,No
+1085,Male,40,Expat,Master's,10,Sales Associate,1,2025-09-24,6650,No
+1086,Male,31,Expat,Bachelor's,10,Sales Associate,1,2017-02-04,6450,Yes
+1087,Male,34,Expat,Bachelor's,10,Sales Executive,2,2021-05-04,11700,Yes
+1088,Male,24,UAE National,High School,10,Sales Associate,1,2024-07-25,5350,No
+1089,Male,39,Expat,Bachelor's,10,Sales Executive,2,2018-12-03,8950,No
+1090,Female,39,Expat,Bachelor's,10,Sales Associate,1,2020-07-01,7200,No
+1091,Female,45,Expat,Bachelor's,10,Sales Manager,3,2018-08-14,16400,No
+1092,Female,30,Expat,Bachelor's,10,Sales Associate,1,2024-09-02,5200,Yes
+1093,Female,31,Expat,Bachelor's,10,Sales Associate,1,2021-11-08,5200,No
+1094,Male,28,Expat,Master's,10,Sales Associate,1,2024-04-19,5350,No
+1095,Female,22,Expat,Bachelor's,10,Sales Associate,1,2022-10-08,4500,Yes
+1096,Male,30,Expat,Bachelor's,10,Sales Executive,2,2025-03-18,9900,No
+1097,Female,29,Expat,Bachelor's,10,Sales Associate,1,2025-08-17,6550,No
+1098,Female,34,Expat,Bachelor's,10,Sales Manager,3,2018-03-29,16100,No
+1099,Male,32,Expat,Bachelor's,10,Sales Associate,1,2025-06-10,6800,Yes
+1100,Male,40,Expat,Master's,10,Sales Manager,3,2021-11-28,25950,No
+1101,Male,32,Expat,High School,10,Sales Executive,2,2017-08-22,11850,No
+1102,Male,40,Expat,Bachelor's,10,Sales Executive,2,2020-10-11,10900,No
+1103,Female,34,Expat,Bachelor's,10,Sales Associate,1,2019-05-26,4650,No
+1104,Male,36,Expat,Master's,10,Sales Associate,1,2021-01-25,4950,No
+1105,Female,35,Expat,Bachelor's,10,Sales Executive,2,2018-03-19,9300,Yes
+1106,Female,30,UAE National,Bachelor's,10,Sales Associate,1,2024-06-17,6100,No
+1107,Female,48,Expat,Master's,10,Sales Director,4,2025-01-04,38800,Yes
+1108,Male,37,Expat,Diploma,10,Sales Manager,3,2020-02-08,23550,No
+1109,Male,31,Expat,Bachelor's,10,Sales Associate,1,2021-08-25,7100,Yes
+1110,Female,36,Expat,Bachelor's,10,Sales Executive,2,2020-06-20,8050,Yes
+1111,Female,31,Expat,Master's,10,Sales Executive,2,2025-04-13,11750,Yes
+1112,Male,30,UAE National,High School,10,Sales Associate,1,2025-08-02,6450,No
+1113,Female,27,Expat,Bachelor's,10,Sales Associate,1,2020-05-04,7500,No
+1114,Male,28,Expat,Bachelor's,10,Sales Associate,1,2024-05-04,4900,Yes
+1115,Male,36,Expat,Bachelor's,10,Sales Associate,1,2023-07-05,5250,No
+1116,Male,34,Expat,Master's,10,Sales Executive,2,2025-01-11,13700,No
+1117,Male,41,Expat,Bachelor's,10,Sales Executive,2,2021-01-28,12700,No
+1118,Female,27,Expat,Diploma,10,Sales Associate,1,2020-10-21,5250,No
+1119,Female,36,Expat,Master's,10,Sales Executive,2,2025-02-24,12700,Yes
+1120,Female,28,Expat,Diploma,10,Sales Associate,1,2022-03-17,5650,No
+1121,Male,21,Expat,Master's,10,Sales Associate,1,2020-04-25,4750,No
+1122,Male,23,Expat,High School,10,Sales Associate,1,2025-01-13,5600,No
+1123,Female,27,Expat,Diploma,10,Sales Executive,2,2019-11-13,11650,Yes
+1124,Male,31,Expat,High School,10,Sales Executive,2,2017-06-20,8250,Yes
+1125,Male,39,Expat,Diploma,10,Sales Executive,2,2017-05-06,8550,Yes
+1126,Female,36,Expat,Master's,10,Sales Manager,3,2016-04-23,15500,No
+1127,Male,25,Expat,Bachelor's,10,Sales Associate,1,2022-08-19,6450,No
+1128,Female,32,Expat,Bachelor's,10,Sales Associate,1,2024-08-13,4750,No
+1129,Male,28,Expat,Bachelor's,10,Sales Associate,1,2019-10-23,5200,Yes
+1130,Male,25,Expat,Bachelor's,10,Sales Associate,1,2019-01-15,5400,No
+1131,Female,30,Expat,Diploma,10,Sales Executive,2,2018-05-14,13000,Yes
+1132,Male,30,Expat,Diploma,10,Sales Associate,1,2021-09-10,4900,Yes
+1133,Male,33,Expat,Bachelor's,10,Sales Associate,1,2024-03-30,7150,No
+1134,Female,39,Expat,High School,10,Sales Executive,2,2016-08-14,10100,Yes
+1135,Female,35,Expat,Bachelor's,10,Sales Executive,2,2025-01-15,11450,No
+1136,Male,38,Expat,Bachelor's,10,Sales Manager,3,2019-04-09,25500,No
+1137,Male,35,Expat,Bachelor's,10,Sales Associate,1,2022-03-24,4600,Yes
+1138,Male,29,Expat,Master's,10,Sales Associate,1,2017-05-19,6250,No
+1139,Male,30,Expat,Bachelor's,10,Sales Associate,1,2025-02-02,6600,No
+1140,Female,38,Expat,Bachelor's,10,Sales Manager,3,2025-02-20,21150,Yes
+1141,Female,27,Expat,Master's,10,Sales Associate,1,2024-01-22,5200,No
+1142,Male,34,Expat,High School,10,Sales Executive,2,2019-01-24,12850,Yes
+1143,Male,33,Expat,Bachelor's,10,Sales Associate,1,2022-08-31,7250,No
+1144,Male,26,Expat,Bachelor's,10,Sales Associate,1,2022-02-15,5850,No
+1145,Male,31,Expat,Master's,10,Sales Associate,1,2018-09-19,5050,No
+1146,Male,32,Expat,Bachelor's,10,Sales Executive,2,2017-10-11,11650,Yes
+1147,Male,33,Expat,Bachelor's,10,Sales Executive,2,2017-07-28,11700,No
+1148,Male,21,Expat,Bachelor's,10,Sales Associate,1,2020-08-08,6250,No
+1149,Male,30,Expat,Bachelor's,10,Sales Executive,2,2019-03-25,9750,No
+1150,Female,36,Expat,Bachelor's,10,Sales Associate,1,2020-03-24,4750,No
+1151,Female,33,Expat,High School,10,Sales Manager,3,2024-09-03,21800,No
+1152,Male,31,Expat,Bachelor's,10,Sales Associate,1,2020-03-13,6450,No
+1153,Male,37,Expat,Bachelor's,10,Sales Associate,1,2025-01-06,5450,No
+1154,Female,35,Expat,Bachelor's,10,Sales Associate,1,2025-02-25,6000,Yes
+1155,Male,37,UAE National,Bachelor's,10,Sales Executive,2,2016-01-17,10400,Yes
+1156,Male,36,Expat,Bachelor's,10,Sales Associate,1,2025-06-14,6800,Yes
+1157,Male,42,Expat,Bachelor's,10,Sales Executive,2,2022-06-28,12300,Yes
+1158,Male,35,Expat,Master's,10,Sales Associate,1,2024-08-16,4650,No
+1159,Female,21,Expat,Diploma,10,Sales Associate,1,2023-08-06,6650,Yes
+1160,Male,29,Expat,Bachelor's,10,Sales Associate,1,2020-07-09,7400,No
+1161,Male,21,Expat,Bachelor's,10,Sales Associate,1,2024-05-12,4800,Yes
+1162,Male,32,Expat,Bachelor's,10,Sales Associate,1,2018-07-19,6550,No
+1163,Female,46,Expat,High School,10,Sales Manager,3,2017-05-17,16000,No
+1164,Female,35,Expat,High School,10,Sales Executive,2,2025-01-05,12850,No
+1165,Male,33,Expat,Bachelor's,10,Sales Manager,3,2024-09-09,21900,No
+1166,Female,40,Expat,Diploma,10,Sales Executive,2,2019-12-13,8600,Yes
+1167,Female,33,Expat,Bachelor's,10,Sales Executive,2,2023-01-22,9100,No
+1168,Female,44,Expat,Diploma,10,Sales Manager,3,2022-07-24,15500,Yes
+1169,Female,31,Expat,Bachelor's,10,Sales Executive,2,2018-06-23,8550,No
+1170,Male,21,Expat,Bachelor's,10,Sales Associate,1,2024-07-12,4650,No
+1171,Female,27,Expat,Diploma,10,Sales Associate,1,2019-11-23,5100,Yes
+1172,Male,25,Expat,Master's,10,Sales Associate,1,2025-07-30,5200,No
+1173,Male,27,Expat,High School,10,Sales Associate,1,2025-05-13,5100,Yes
+1174,Female,28,Expat,Master's,10,Sales Executive,2,2016-12-09,10000,No
+1175,Male,33,Expat,Bachelor's,10,Sales Executive,2,2023-01-15,12400,No
+1176,Female,37,Expat,Diploma,10,Sales Manager,3,2024-11-13,23150,Yes
+1177,Female,45,Expat,Bachelor's,10,Sales Manager,3,2023-11-30,15550,Yes
+1178,Male,28,Expat,Bachelor's,10,Sales Associate,1,2016-06-12,5950,Yes
+1179,Male,28,Expat,High School,10,Sales Associate,1,2020-09-21,4700,Yes
+1180,Female,24,Expat,High School,10,Sales Associate,1,2023-01-06,7400,No
+1181,Male,31,Expat,Bachelor's,10,Sales Associate,1,2023-05-13,5400,Yes
+1182,Female,35,Expat,Bachelor's,10,Sales Associate,1,2018-09-11,5700,Yes
+1183,Male,38,Expat,Bachelor's,10,Sales Executive,2,2018-07-16,12200,No
+1184,Male,32,Expat,High School,10,Sales Manager,3,2025-02-05,21000,No
+1185,Female,41,Expat,Diploma,10,Sales Associate,1,2022-08-31,5900,Yes
+1186,Male,36,Expat,Bachelor's,10,Sales Associate,1,2024-07-24,4550,Yes
+1187,Male,29,Expat,High School,10,Sales Associate,1,2024-12-28,5100,No
+1188,Female,34,Expat,High School,10,Sales Executive,2,2024-09-13,11250,No
+1189,Female,27,Expat,Diploma,10,Sales Associate,1,2018-01-16,6450,No
+1190,Male,33,Expat,Bachelor's,10,Sales Manager,3,2022-08-10,17350,No
+1191,Male,27,Expat,Master's,10,Sales Associate,1,2021-02-24,6350,No
+1192,Male,30,Expat,High School,10,Sales Associate,1,2022-04-15,4800,Yes
+1193,Female,28,Expat,Bachelor's,10,Sales Associate,1,2024-07-23,5600,No
+1194,Female,24,Expat,Bachelor's,10,Sales Associate,1,2018-08-19,4950,Yes
+1195,Male,36,Expat,Master's,10,Sales Executive,2,2023-05-22,10050,No
+1196,Male,34,Expat,Bachelor's,10,Sales Associate,1,2017-12-18,5250,Yes
+1197,Male,36,Expat,Bachelor's,10,Sales Executive,2,2017-06-12,8500,No
+1198,Male,41,Expat,Bachelor's,10,Sales Manager,3,2016-04-20,19450,No
+1199,Male,22,Expat,Bachelor's,10,Sales Associate,1,2021-03-12,4600,Yes
+1200,Male,32,Expat,Master's,10,Sales Associate,1,2025-02-16,5550,No
+1201,Male,30,Expat,Diploma,10,Sales Executive,2,2019-06-20,11300,No
+1202,Male,33,Expat,Bachelor's,10,Sales Executive,2,2020-06-29,8550,Yes
+1203,Female,29,Expat,Diploma,10,Sales Manager,3,2024-04-09,23550,No
+1204,Female,42,Expat,Bachelor's,10,Sales Manager,3,2017-03-17,15150,No
+1205,Male,34,Expat,Diploma,10,Sales Executive,2,2024-01-22,9550,No
+1206,Male,31,Expat,Bachelor's,10,Sales Manager,3,2024-08-16,23250,No
+1207,Female,31,Expat,Master's,10,Sales Associate,1,2016-08-01,5150,No
+1208,Female,26,Expat,Bachelor's,10,Sales Associate,1,2024-06-21,5900,No
+1209,Female,31,UAE National,Master's,10,Sales Associate,1,2018-08-06,6600,No
+1210,Female,29,Expat,High School,10,Sales Associate,1,2024-04-11,7500,No
+1211,Male,24,Expat,High School,10,Sales Associate,1,2024-10-02,4700,Yes
+1212,Female,32,Expat,Master's,10,Sales Executive,2,2020-06-23,11250,No
+1213,Female,44,Expat,High School,10,Sales Manager,3,2018-11-09,23050,No
+1214,Male,32,Expat,Bachelor's,10,Sales Associate,1,2025-04-26,6050,No
+1215,Male,26,Expat,Master's,10,Sales Associate,1,2023-05-25,5450,No
+1216,Female,41,Expat,Diploma,10,Sales Director,4,2016-09-26,37000,No
+1217,Female,41,Expat,Diploma,10,Sales Manager,3,2023-04-24,15500,No
+1218,Male,36,Expat,Bachelor's,10,Sales Executive,2,2019-01-31,14000,No
+1219,Male,32,UAE National,Diploma,10,Sales Executive,2,2022-12-25,10050,No
+1220,Female,28,Expat,Bachelor's,10,Sales Associate,1,2021-11-21,7100,Yes
+1221,Female,43,Expat,Bachelor's,10,Sales Executive,2,2025-02-03,9450,No
+1222,Male,27,Expat,Bachelor's,10,Sales Associate,1,2021-11-23,7300,No
+1223,Female,27,Expat,Bachelor's,10,Sales Associate,1,2020-06-16,6050,No
+1224,Female,29,Expat,Bachelor's,10,Sales Associate,1,2025-07-06,6200,Yes
+1225,Male,23,Expat,Diploma,10,Sales Associate,1,2024-01-07,5050,No
+1226,Male,33,Expat,Bachelor's,10,Sales Associate,1,2024-07-31,6100,Yes
+1227,Male,35,Expat,Bachelor's,10,Sales Executive,2,2016-02-04,10450,No
+1228,Male,25,Expat,Bachelor's,10,Sales Associate,1,2018-01-07,6400,Yes
+1229,Female,32,Expat,Bachelor's,10,Sales Executive,2,2023-07-27,12800,No
+1230,Male,23,Expat,Bachelor's,10,Sales Associate,1,2020-12-17,4950,Yes
+1231,Female,38,Expat,High School,10,Sales Executive,2,2019-06-21,9950,No
+1232,Female,28,Expat,High School,10,Sales Associate,1,2017-09-01,5800,No
+1233,Male,31,Expat,Master's,10,Sales Associate,1,2024-10-13,7100,No
+1234,Male,32,UAE National,Bachelor's,10,Sales Associate,1,2016-01-06,7350,No
+1235,Male,40,Expat,Bachelor's,10,Sales Executive,2,2025-07-18,8700,Yes
+1236,Male,35,Expat,High School,10,Sales Executive,2,2017-01-03,13050,No
+1237,Male,21,Expat,Master's,10,Sales Associate,1,2025-07-02,4650,Yes
+1238,Male,28,Expat,High School,10,Sales Executive,2,2018-05-13,9400,No
+1239,Female,40,Expat,Bachelor's,10,Sales Executive,2,2021-10-02,8350,Yes
+1240,Male,30,Expat,Bachelor's,10,Sales Associate,1,2019-07-24,5750,No
+1241,Male,30,Expat,Master's,10,Sales Manager,3,2023-09-11,25750,No
+1242,Female,29,Expat,Bachelor's,10,Sales Associate,1,2024-12-23,6250,No
+1243,Female,25,Expat,Bachelor's,10,Sales Executive,2,2024-12-29,9000,No
+1244,Female,33,Expat,Master's,10,Sales Executive,2,2025-04-13,11350,No
+1245,Female,33,Expat,Bachelor's,10,Sales Manager,3,2025-04-05,25450,Yes
+1246,Male,21,Expat,Bachelor's,10,Sales Associate,1,2020-08-09,5850,Yes
+1247,Male,33,Expat,Diploma,10,Sales Associate,1,2018-06-05,4600,No
+1248,Male,27,Expat,High School,10,Sales Associate,1,2021-09-06,6300,No
+1249,Female,34,Expat,Diploma,10,Sales Associate,1,2019-12-14,7450,No
+1250,Male,35,Expat,Bachelor's,10,Sales Associate,1,2023-06-01,6550,No
+1251,Female,28,Expat,Master's,10,Sales Associate,1,2024-06-03,4950,No
+1252,Female,44,Expat,Bachelor's,10,Sales Director,4,2023-01-13,32950,No
+1253,Female,31,Expat,High School,10,Sales Associate,1,2017-10-25,6000,Yes
+1254,Female,52,Expat,Diploma,10,Sales Director,4,2024-09-17,44350,Yes
+1255,Male,32,Expat,Bachelor's,10,Sales Associate,1,2024-11-23,5300,Yes
+1256,Male,22,Expat,Bachelor's,10,Sales Associate,1,2024-01-17,6100,Yes
+1257,Male,32,Expat,Bachelor's,10,Sales Associate,1,2025-02-26,7000,No
+1258,Male,36,Expat,Diploma,10,Sales Associate,1,2017-08-10,6050,No
+1259,Male,35,Expat,Diploma,10,Sales Executive,2,2024-10-07,12700,No
+1260,Female,38,Expat,Bachelor's,10,Sales Associate,1,2023-11-24,5650,No
+1261,Male,27,Expat,Diploma,10,Sales Associate,1,2016-04-05,4700,No
+1262,Female,32,Expat,Diploma,10,Sales Executive,2,2019-10-25,11200,Yes
+1263,Male,32,Expat,Master's,10,Sales Associate,1,2021-08-29,5600,No
+1264,Male,42,Expat,Master's,10,Sales Manager,3,2019-09-11,17750,No
+1265,Female,31,UAE National,Bachelor's,10,Sales Associate,1,2019-03-03,4750,No
+1266,Male,31,Expat,Master's,10,Sales Manager,3,2024-04-16,22900,Yes
+1267,Male,41,Expat,Bachelor's,10,Sales Executive,2,2019-07-17,9850,Yes
+1268,Male,23,Expat,Bachelor's,10,Sales Associate,1,2019-10-14,5950,No
+1269,Male,32,Expat,High School,10,Sales Associate,1,2019-02-13,7450,No
+1270,Male,30,Expat,Bachelor's,10,Sales Manager,3,2021-12-28,24450,Yes
+1271,Female,24,Expat,Bachelor's,10,Sales Associate,1,2022-08-18,7350,No
+1272,Female,23,Expat,High School,10,Sales Executive,2,2024-01-02,12300,No
+1273,Male,29,Expat,Master's,10,Sales Executive,2,2024-04-25,9450,No
+1274,Female,40,Expat,Bachelor's,10,Sales Manager,3,2025-04-24,15200,No
+1275,Female,22,Expat,Bachelor's,10,Sales Associate,1,2020-04-12,4500,No
+1276,Male,28,Expat,High School,10,Sales Associate,1,2024-08-01,4550,No
+1277,Female,32,Expat,Diploma,10,Sales Associate,1,2021-10-29,4800,No
+1278,Female,31,Expat,Bachelor's,10,Sales Associate,1,2024-08-07,6050,No
+1279,Male,30,Expat,Diploma,10,Sales Executive,2,2016-05-05,8800,No
+1280,Female,26,Expat,Diploma,10,Sales Associate,1,2025-04-29,6800,No
+1281,Female,26,Expat,Bachelor's,10,Sales Associate,1,2025-02-24,6800,No
+1282,Female,33,Expat,Bachelor's,10,Sales Executive,2,2025-02-21,13600,No
+1283,Male,25,Expat,Master's,10,Sales Associate,1,2017-12-23,6350,Yes
+1284,Male,36,Expat,High School,10,Sales Executive,2,2024-03-12,11600,No
+1285,Male,32,Expat,Bachelor's,10,Sales Executive,2,2021-09-21,9650,No
+1286,Male,38,Expat,Diploma,10,Sales Executive,2,2016-05-05,12700,Yes
+1287,Male,27,Expat,Diploma,10,Sales Associate,1,2024-04-09,7000,Yes
+1288,Female,28,Expat,Master's,10,Sales Associate,1,2024-04-24,7100,No
+1289,Male,27,Expat,Bachelor's,10,Sales Associate,1,2021-04-16,4500,Yes
+1290,Male,34,Expat,High School,10,Sales Associate,1,2024-03-10,5300,No
+1291,Male,34,UAE National,High School,10,Sales Manager,3,2025-08-15,15650,No
+1292,Male,28,Expat,High School,10,Sales Associate,1,2024-11-06,4850,No
+1293,Male,32,Expat,High School,10,Sales Associate,1,2025-05-25,6500,Yes
+1294,Male,26,Expat,Diploma,10,Sales Associate,1,2025-03-25,7450,No
+1295,Male,31,Expat,Bachelor's,10,Sales Associate,1,2021-05-08,7050,No
+1296,Female,27,Expat,Bachelor's,10,Sales Associate,1,2020-03-11,5200,No
+1297,Female,31,Expat,High School,10,Sales Associate,1,2024-05-20,7500,Yes
+1298,Female,43,UAE National,High School,10,Sales Manager,3,2024-05-07,25350,No
+1299,Male,23,Expat,Bachelor's,10,Sales Associate,1,2021-12-08,5400,No
+1300,Male,30,Expat,Bachelor's,10,Sales Associate,1,2018-11-03,5050,No
+1301,Female,39,Expat,Bachelor's,20,CS Agent,1,2023-07-15,7250,No
+1302,Female,26,Expat,Bachelor's,20,CS Agent,1,2020-08-02,4900,No
+1303,Male,24,Expat,Bachelor's,20,CS Agent,1,2016-05-26,7150,No
+1304,Male,35,Expat,Diploma,20,CS Executive,2,2025-01-13,8700,No
+1305,Male,29,Expat,Bachelor's,20,CS Agent,1,2024-03-07,6300,No
+1306,Male,29,Expat,High School,20,CS Agent,1,2024-08-23,5000,No
+1307,Male,46,Expat,High School,20,CS Executive,2,2018-11-24,13550,Yes
+1308,Male,43,Expat,High School,20,CS Team Lead,3,2022-04-14,23250,No
+1309,Female,23,Expat,High School,20,CS Agent,1,2023-12-08,5900,No
+1310,Male,29,Expat,Bachelor's,20,CS Agent,1,2020-09-30,5500,Yes
+1311,Male,24,UAE National,Bachelor's,20,CS Agent,1,2019-06-28,7200,Yes
+1312,Male,35,Expat,Bachelor's,20,CS Agent,1,2022-10-31,5400,Yes
+1313,Male,34,Expat,Diploma,20,CS Team Lead,3,2023-09-09,20800,No
+1314,Female,32,Expat,High School,20,CS Agent,1,2023-11-28,5850,No
+1315,Female,36,Expat,Bachelor's,20,CS Team Lead,3,2025-04-22,22500,Yes
+1316,Male,25,Expat,Bachelor's,20,CS Agent,1,2017-11-02,6300,No
+1317,Male,32,Expat,Bachelor's,20,CS Agent,1,2018-11-29,7300,No
+1318,Male,37,Expat,Master's,20,CS Agent,1,2025-09-22,5500,Yes
+1319,Female,38,Expat,Diploma,20,CS Agent,1,2016-01-01,6200,Yes
+1320,Male,26,Expat,Bachelor's,20,CS Executive,2,2020-06-03,8650,Yes
+1321,Female,38,Expat,Diploma,20,CS Executive,2,2024-11-10,9500,No
+1322,Female,33,Expat,Master's,20,CS Agent,1,2024-05-06,6150,No
+1323,Male,24,UAE National,High School,20,CS Agent,1,2024-11-30,7150,No
+1324,Female,25,Expat,Bachelor's,20,CS Agent,1,2023-02-02,6250,Yes
+1325,Male,35,Expat,Bachelor's,20,CS Executive,2,2025-07-09,10200,No
+1326,Female,28,Expat,Bachelor's,20,CS Agent,1,2018-06-29,6300,Yes
+1327,Female,27,Expat,Master's,20,CS Executive,2,2018-02-04,12500,Yes
+1328,Female,35,Expat,Diploma,20,CS Agent,1,2024-01-24,7200,No
+1329,Female,42,Expat,Bachelor's,20,CS Executive,2,2024-09-22,11600,Yes
+1330,Male,36,Expat,Diploma,20,CS Executive,2,2018-04-07,12350,Yes
+1331,Male,30,Expat,Bachelor's,20,CS Agent,1,2016-12-19,7200,No
+1332,Male,32,Expat,Bachelor's,20,CS Agent,1,2022-12-07,5450,No
+1333,Male,34,Expat,Bachelor's,20,CS Executive,2,2021-04-21,10850,Yes
+1334,Male,35,Expat,Bachelor's,20,CS Executive,2,2025-06-03,8900,No
+1335,Male,27,Expat,Bachelor's,20,CS Executive,2,2017-10-02,12000,No
+1336,Female,36,Expat,Bachelor's,20,CS Agent,1,2018-01-17,4900,No
+1337,Female,29,Expat,Bachelor's,20,CS Agent,1,2019-08-24,5950,Yes
+1338,Male,35,Expat,Diploma,20,CS Team Lead,3,2024-07-16,17300,No
+1339,Male,33,UAE National,Bachelor's,20,CS Executive,2,2017-01-01,8900,No
+1340,Female,23,Expat,Bachelor's,20,CS Agent,1,2023-10-15,4850,Yes
+1341,Male,43,Expat,Bachelor's,20,CS Manager,4,2023-07-20,31000,Yes
+1342,Male,32,Expat,High School,20,CS Executive,2,2023-05-28,13650,No
+1343,Female,31,Expat,Bachelor's,20,CS Team Lead,3,2023-11-14,15050,No
+1344,Female,35,Expat,Master's,20,CS Team Lead,3,2018-02-20,24950,No
+1345,Male,36,Expat,High School,20,CS Agent,1,2022-06-07,5950,Yes
+1346,Female,30,Expat,Bachelor's,20,CS Executive,2,2024-05-16,8600,Yes
+1347,Male,21,Expat,Bachelor's,20,CS Agent,1,2023-05-04,6850,Yes
+1348,Female,32,Expat,Master's,20,CS Executive,2,2017-08-16,9750,No
+1349,Male,21,UAE National,Bachelor's,20,CS Agent,1,2024-03-24,7050,No
+1350,Male,35,Expat,Master's,20,CS Executive,2,2025-05-27,9550,Yes
+1351,Male,41,Expat,Bachelor's,20,CS Executive,2,2025-01-27,11200,No
+1352,Female,34,Expat,Master's,20,CS Team Lead,3,2017-10-19,16300,Yes
+1353,Male,39,Expat,Diploma,20,CS Executive,2,2022-08-11,10050,Yes
+1354,Female,32,Expat,Diploma,20,CS Executive,2,2022-04-25,13650,No
+1355,Male,26,Expat,Bachelor's,20,CS Agent,1,2025-08-23,4700,Yes
+1356,Female,28,Expat,Bachelor's,20,CS Agent,1,2019-02-22,6200,Yes
+1357,Male,33,Expat,Bachelor's,20,CS Agent,1,2018-05-12,5300,No
+1358,Male,37,UAE National,Bachelor's,20,CS Team Lead,3,2025-01-07,24600,Yes
+1359,Male,29,Expat,Bachelor's,20,CS Agent,1,2020-02-24,4900,Yes
+1360,Female,31,Expat,Diploma,20,CS Executive,2,2018-08-25,9400,No
+1361,Male,31,Expat,Diploma,20,CS Agent,1,2023-07-07,4650,No
+1362,Male,27,Expat,Master's,20,CS Agent,1,2021-09-28,5850,No
+1363,Male,25,UAE National,Diploma,20,CS Executive,2,2017-10-03,12750,Yes
+1364,Male,27,Expat,Diploma,20,CS Agent,1,2024-08-16,6500,Yes
+1365,Male,27,Expat,High School,20,CS Agent,1,2025-07-10,5100,Yes
+1366,Female,30,Expat,Bachelor's,20,CS Executive,2,2024-03-09,10900,Yes
+1367,Male,44,Expat,High School,20,CS Team Lead,3,2019-01-03,22650,Yes
+1368,Male,33,Expat,High School,20,CS Executive,2,2018-12-03,8700,No
+1369,Female,30,Expat,Bachelor's,20,CS Executive,2,2022-04-08,11550,No
+1370,Female,42,Expat,Diploma,20,CS Manager,4,2022-12-12,36550,No
+1371,Male,29,Expat,Diploma,20,CS Agent,1,2018-10-16,7100,No
+1372,Female,27,Expat,Bachelor's,20,CS Agent,1,2016-12-19,6700,Yes
+1373,Female,25,Expat,Bachelor's,20,CS Agent,1,2025-06-21,7150,No
+1374,Female,33,Expat,Diploma,20,CS Agent,1,2020-09-16,5800,No
+1375,Male,43,Expat,Bachelor's,20,CS Team Lead,3,2016-08-08,17100,No
+1376,Female,30,Expat,Diploma,20,CS Executive,2,2024-04-01,12550,Yes
+1377,Male,30,Expat,Bachelor's,20,CS Agent,1,2022-07-28,7150,Yes
+1378,Male,27,Expat,Bachelor's,20,CS Agent,1,2025-08-09,5500,Yes
+1379,Male,31,Expat,Master's,20,CS Agent,1,2020-04-06,6300,Yes
+1380,Male,38,UAE National,Bachelor's,20,CS Team Lead,3,2024-04-05,24950,Yes
+1381,Male,38,Expat,Master's,20,CS Team Lead,3,2025-01-31,18950,Yes
+1382,Male,31,Expat,Bachelor's,20,CS Agent,1,2023-07-23,5500,No
+1383,Female,32,Expat,Master's,20,CS Agent,1,2017-12-06,5850,No
+1384,Male,29,Expat,Bachelor's,20,CS Agent,1,2016-10-03,6600,Yes
+1385,Male,27,Expat,Bachelor's,20,CS Executive,2,2024-03-20,8800,Yes
+1386,Female,23,UAE National,Master's,20,CS Agent,1,2016-08-31,4800,No
+1387,Male,41,Expat,Master's,20,CS Team Lead,3,2024-08-23,19850,No
+1388,Female,26,Expat,High School,20,CS Agent,1,2024-06-12,6600,No
+1389,Male,21,Expat,High School,20,CS Agent,1,2016-08-29,5200,Yes
+1390,Female,32,Expat,Bachelor's,20,CS Team Lead,3,2018-06-21,23200,No
+1391,Female,31,Expat,Bachelor's,20,CS Agent,1,2024-12-31,5700,Yes
+1392,Female,27,Expat,Bachelor's,20,CS Agent,1,2025-08-07,6950,Yes
+1393,Female,45,Expat,Diploma,20,CS Team Lead,3,2019-05-24,24150,No
+1394,Male,40,Expat,Bachelor's,20,CS Executive,2,2024-04-13,8950,Yes
+1395,Male,32,Expat,High School,20,CS Agent,1,2022-07-29,5800,No
+1396,Male,42,Expat,Bachelor's,20,CS Manager,4,2023-01-26,31900,No
+1397,Male,33,Expat,Bachelor's,20,CS Executive,2,2025-08-09,13200,Yes
+1398,Male,31,UAE National,Bachelor's,20,CS Agent,1,2019-09-10,5850,No
+1399,Male,21,Expat,Diploma,20,CS Agent,1,2016-10-24,6900,No
+1400,Male,32,Expat,Bachelor's,20,CS Executive,2,2021-03-04,13400,No
+1401,Female,37,Expat,High School,20,CS Executive,2,2024-05-14,13250,No
+1402,Male,32,Expat,Bachelor's,20,CS Agent,1,2024-03-21,5350,No
+1403,Female,30,Expat,Diploma,20,CS Executive,2,2024-04-18,8750,No
+1404,Female,37,Expat,Diploma,20,CS Executive,2,2019-02-15,11500,No
+1405,Male,21,Expat,Diploma,20,CS Agent,1,2019-01-22,5200,No
+1406,Male,32,Expat,Bachelor's,20,CS Agent,1,2025-01-19,5600,No
+1407,Female,21,Expat,Bachelor's,20,CS Agent,1,2025-03-17,5800,No
+1408,Male,28,Expat,Bachelor's,20,CS Executive,2,2025-09-03,11000,Yes
+1409,Female,22,Expat,Bachelor's,20,CS Agent,1,2021-09-14,5350,Yes
+1410,Female,28,UAE National,Diploma,20,CS Agent,1,2022-02-21,6950,No
+1411,Female,37,Expat,Master's,20,CS Executive,2,2019-05-15,8650,No
+1412,Male,34,Expat,Bachelor's,20,CS Executive,2,2020-07-06,10400,No
+1413,Female,29,Expat,Bachelor's,20,CS Executive,2,2024-01-07,9050,Yes
+1414,Male,30,Expat,High School,20,CS Agent,1,2017-09-29,6100,No
+1415,Male,23,Expat,High School,20,CS Agent,1,2020-06-05,7350,Yes
+1416,Female,22,Expat,High School,20,CS Agent,1,2021-01-10,7400,Yes
+1417,Male,42,Expat,Bachelor's,20,CS Executive,2,2017-09-24,10800,Yes
+1418,Female,28,Expat,Bachelor's,20,CS Agent,1,2021-08-13,4800,Yes
+1419,Male,32,Expat,Diploma,20,CS Agent,1,2024-04-26,5250,No
+1420,Female,33,Expat,Bachelor's,20,CS Agent,1,2024-03-18,4700,Yes
+1421,Female,30,Expat,High School,20,CS Agent,1,2016-08-22,6000,Yes
+1422,Male,43,Expat,Bachelor's,20,CS Team Lead,3,2025-01-22,21400,Yes
+1423,Male,34,Expat,Diploma,20,CS Agent,1,2025-04-25,7100,No
+1424,Male,23,Expat,Master's,20,CS Agent,1,2017-02-27,6800,No
+1425,Female,31,Expat,Master's,20,CS Team Lead,3,2023-02-11,25650,No
+1426,Female,27,Expat,Bachelor's,20,CS Agent,1,2024-09-25,5200,No
+1427,Male,29,Expat,High School,20,CS Agent,1,2025-07-25,7400,Yes
+1428,Male,27,Expat,Bachelor's,20,CS Agent,1,2024-05-04,7050,No
+1429,Male,34,Expat,Diploma,20,CS Agent,1,2025-03-24,6400,No
+1430,Male,24,Expat,Bachelor's,20,CS Executive,2,2022-10-13,8800,No
+1431,Male,33,Expat,Diploma,20,CS Agent,1,2019-02-28,6550,No
+1432,Female,41,Expat,Bachelor's,20,CS Team Lead,3,2023-01-07,15350,Yes
+1433,Male,33,Expat,Bachelor's,20,CS Agent,1,2020-09-10,6700,Yes
+1434,Male,23,Expat,High School,20,CS Agent,1,2025-05-29,6600,No
+1435,Male,32,Expat,Bachelor's,20,CS Agent,1,2023-02-20,4750,No
+1436,Female,42,Expat,High School,20,CS Team Lead,3,2024-09-17,22050,No
+1437,Female,33,Expat,Diploma,20,CS Agent,1,2020-08-10,6600,No
+1438,Female,28,Expat,Bachelor's,20,CS Agent,1,2024-11-11,6050,No
+1439,Male,23,Expat,Bachelor's,20,CS Agent,1,2020-10-10,5650,No
+1440,Female,29,UAE National,Diploma,20,CS Agent,1,2024-10-01,7200,No
+1441,Male,36,UAE National,Bachelor's,20,CS Agent,1,2024-11-28,6450,Yes
+1442,Male,30,Expat,Bachelor's,20,CS Agent,1,2024-07-20,6650,Yes
+1443,Male,36,Expat,Bachelor's,20,CS Agent,1,2023-03-01,6150,No
+1444,Female,29,Expat,Master's,20,CS Agent,1,2024-02-09,6200,No
+1445,Male,34,Expat,High School,20,CS Executive,2,2023-01-26,9900,Yes
+1446,Female,23,Expat,Diploma,20,CS Agent,1,2023-09-20,6400,No
+1447,Male,27,Expat,Bachelor's,20,CS Agent,1,2024-12-22,7250,Yes
+1448,Female,38,Expat,High School,20,CS Executive,2,2023-08-11,11350,Yes
+1449,Female,25,Expat,Bachelor's,20,CS Agent,1,2016-02-25,7350,Yes
+1450,Male,38,Expat,Diploma,20,CS Executive,2,2025-03-06,13500,No
+1451,Male,35,Expat,Diploma,20,CS Agent,1,2025-07-02,6550,No
+1452,Male,31,Expat,Diploma,20,CS Agent,1,2017-12-15,6400,No
+1453,Male,31,Expat,Bachelor's,20,CS Agent,1,2024-09-02,7400,No
+1454,Male,28,Expat,Bachelor's,20,CS Agent,1,2018-02-19,6650,Yes
+1455,Male,30,Expat,Diploma,20,CS Executive,2,2019-05-18,13000,Yes
+1456,Female,39,Expat,Diploma,20,CS Executive,2,2025-06-23,13550,No
+1457,Female,31,Expat,Bachelor's,20,CS Team Lead,3,2025-08-20,17950,No
+1458,Male,32,Expat,Master's,20,CS Agent,1,2024-08-24,4950,No
+1459,Male,33,Expat,Diploma,20,CS Agent,1,2017-02-05,6050,No
+1460,Female,39,Expat,High School,20,CS Team Lead,3,2023-10-27,17300,No
+1461,Male,33,Expat,Bachelor's,20,CS Executive,2,2025-01-08,13450,No
+1462,Female,29,Expat,High School,20,CS Executive,2,2021-07-16,10550,Yes
+1463,Male,30,Expat,Bachelor's,20,CS Agent,1,2024-01-18,5450,Yes
+1464,Female,39,Expat,Bachelor's,20,CS Team Lead,3,2018-08-21,17650,Yes
+1465,Male,26,Expat,Master's,20,CS Executive,2,2017-08-17,10550,Yes
+1466,Male,24,Expat,Diploma,20,CS Agent,1,2024-01-20,4850,Yes
+1467,Male,27,Expat,Master's,20,CS Agent,1,2020-08-08,5050,No
+1468,Male,37,Expat,Bachelor's,20,CS Executive,2,2019-02-03,12350,Yes
+1469,Female,23,Expat,Diploma,20,CS Executive,2,2019-06-03,10850,No
+1470,Male,39,Expat,Diploma,20,CS Executive,2,2017-06-10,10150,No
+1471,Female,29,Expat,Diploma,20,CS Executive,2,2024-05-20,8400,Yes
+1472,Female,37,Expat,High School,20,CS Team Lead,3,2023-05-02,21300,Yes
+1473,Female,27,Expat,Bachelor's,20,CS Executive,2,2019-10-29,13100,Yes
+1474,Male,39,Expat,Bachelor's,20,CS Executive,2,2019-03-01,11650,Yes
+1475,Female,27,Expat,Bachelor's,20,CS Agent,1,2023-01-22,6050,Yes
+1476,Male,28,Expat,High School,20,CS Agent,1,2016-06-20,4750,No
+1477,Male,26,Expat,Diploma,20,CS Agent,1,2020-07-31,6150,Yes
+1478,Female,30,Expat,Bachelor's,20,CS Agent,1,2019-09-12,5850,No
+1479,Female,28,Expat,Diploma,20,CS Team Lead,3,2019-08-12,15200,Yes
+1480,Female,34,Expat,Master's,20,CS Agent,1,2023-04-26,5500,Yes
+1481,Female,31,Expat,Bachelor's,20,CS Executive,2,2020-01-24,8850,Yes
+1482,Female,22,Expat,High School,20,CS Agent,1,2025-03-28,6400,No
+1483,Female,40,Expat,Diploma,20,CS Team Lead,3,2024-07-06,19400,No
+1484,Female,21,Expat,High School,20,CS Agent,1,2022-12-28,6200,No
+1485,Male,33,UAE National,High School,20,CS Agent,1,2024-01-03,5700,No
+1486,Male,26,Expat,Master's,20,CS Agent,1,2025-06-22,5850,Yes
+1487,Male,28,Expat,Bachelor's,20,CS Agent,1,2023-06-21,7400,Yes
+1488,Male,35,Expat,High School,20,CS Executive,2,2022-06-08,12300,No
+1489,Female,35,Expat,Bachelor's,20,CS Team Lead,3,2025-02-24,24550,Yes
+1490,Female,31,Expat,High School,20,CS Executive,2,2025-02-24,9050,No
+1491,Male,24,Expat,Master's,20,CS Agent,1,2019-09-18,4600,No
+1492,Female,34,Expat,Bachelor's,20,CS Agent,1,2019-04-24,5600,No
+1493,Male,32,Expat,Bachelor's,20,CS Agent,1,2016-11-15,6850,No
+1494,Female,41,Expat,Bachelor's,20,CS Executive,2,2020-08-01,11450,No
+1495,Female,31,Expat,Bachelor's,20,CS Agent,1,2025-06-29,5800,Yes
+1496,Male,31,Expat,Master's,20,CS Agent,1,2025-06-28,4550,No
+1497,Male,25,Expat,Bachelor's,20,CS Agent,1,2019-07-17,7300,No
+1498,Male,37,Expat,Master's,20,CS Executive,2,2023-07-06,13100,Yes
+1499,Male,27,Expat,Bachelor's,20,CS Executive,2,2025-01-16,9350,No
+1500,Female,21,Expat,High School,20,CS Agent,1,2024-07-03,6750,No
+1501,Female,35,Expat,Bachelor's,20,CS Team Lead,3,2024-12-18,19550,No
+1502,Male,37,Expat,Master's,20,CS Team Lead,3,2016-04-10,19300,No
+1503,Female,32,Expat,Diploma,20,CS Agent,1,2025-04-26,6650,No
+1504,Female,29,Expat,High School,20,CS Executive,2,2016-01-18,13150,No
+1505,Female,21,Expat,Master's,20,CS Agent,1,2018-08-18,5150,No
+1506,Female,38,Expat,High School,20,CS Team Lead,3,2024-08-26,17500,Yes
+1507,Female,28,Expat,Bachelor's,20,CS Agent,1,2025-04-06,6600,No
+1508,Female,22,Expat,Bachelor's,20,CS Agent,1,2025-09-08,6700,No
+1509,Male,34,Expat,Master's,20,CS Executive,2,2017-12-05,13750,No
+1510,Female,33,Expat,High School,20,CS Agent,1,2022-01-29,4900,Yes
+1511,Male,38,Expat,Bachelor's,20,CS Executive,2,2025-08-08,10500,Yes
+1512,Female,32,Expat,Bachelor's,20,CS Team Lead,3,2021-01-31,16300,Yes
+1513,Female,31,Expat,Master's,20,CS Agent,1,2025-03-30,5550,Yes
+1514,Female,24,Expat,Bachelor's,20,CS Agent,1,2017-07-11,4950,No
+1515,Female,39,Expat,High School,20,CS Agent,1,2016-11-11,6600,Yes
+1516,Female,33,Expat,Bachelor's,20,CS Agent,1,2019-10-24,6700,No
+1517,Male,29,Expat,Bachelor's,20,CS Agent,1,2019-05-10,5150,No
+1518,Male,40,Expat,Bachelor's,20,CS Manager,4,2024-12-20,40050,No
+1519,Male,25,Expat,Bachelor's,20,CS Agent,1,2024-06-24,5800,No
+1520,Male,39,Expat,High School,20,CS Executive,2,2024-05-15,13800,No
+1521,Male,37,Expat,Bachelor's,20,CS Executive,2,2024-02-06,12300,Yes
+1522,Male,26,Expat,Bachelor's,20,CS Agent,1,2024-08-03,5900,No
+1523,Female,30,Expat,Bachelor's,20,CS Agent,1,2018-11-21,7250,Yes
+1524,Male,44,Expat,High School,20,CS Team Lead,3,2019-04-08,15550,No
+1525,Male,28,Expat,Bachelor's,20,CS Agent,1,2025-05-07,4650,Yes
+1526,Male,31,Expat,Master's,20,CS Agent,1,2017-03-04,5450,Yes
+1527,Male,21,Expat,Bachelor's,20,CS Agent,1,2024-04-17,5200,Yes
+1528,Male,37,Expat,Bachelor's,20,CS Agent,1,2025-04-24,4750,No
+1529,Female,35,Expat,Diploma,20,CS Executive,2,2024-05-12,8050,Yes
+1530,Male,38,Expat,Bachelor's,20,CS Team Lead,3,2022-04-22,24100,Yes
+1531,Male,31,Expat,Bachelor's,20,CS Agent,1,2020-06-22,7400,No
+1532,Male,25,Expat,Bachelor's,20,CS Agent,1,2025-09-30,5450,No
+1533,Female,32,Expat,High School,20,CS Agent,1,2025-02-13,5550,Yes
+1534,Male,27,Expat,Diploma,20,CS Agent,1,2018-07-29,6550,No
+1535,Male,43,Expat,Diploma,20,CS Team Lead,3,2024-12-26,18100,No
+1536,Male,29,Expat,Bachelor's,20,CS Agent,1,2016-05-05,5650,Yes
+1537,Female,27,Expat,Diploma,20,CS Executive,2,2025-09-13,13750,No
+1538,Male,37,Expat,High School,20,CS Executive,2,2020-12-09,8650,No
+1539,Female,29,Expat,Bachelor's,20,CS Executive,2,2016-11-05,11500,Yes
+1540,Male,43,Expat,Diploma,20,CS Executive,2,2025-07-31,9650,No
+1541,Female,21,Expat,Master's,20,CS Agent,1,2024-08-27,4800,Yes
+1542,Male,46,Expat,Bachelor's,20,CS Agent,1,2017-04-15,6050,No
+1543,Male,41,Expat,Diploma,20,CS Executive,2,2017-10-10,9450,No
+1544,Male,28,Expat,Bachelor's,20,CS Agent,1,2020-01-21,6800,No
+1545,Female,27,UAE National,Bachelor's,20,CS Agent,1,2018-11-25,6900,Yes
+1546,Female,34,Expat,Diploma,20,CS Team Lead,3,2024-10-09,24400,No
+1547,Female,24,UAE National,High School,20,CS Agent,1,2024-10-30,7200,Yes
+1548,Male,23,Expat,Bachelor's,20,CS Agent,1,2022-06-20,4700,No
+1549,Female,34,Expat,Bachelor's,20,CS Agent,1,2025-03-30,7400,No
+1550,Male,31,Expat,Bachelor's,20,CS Agent,1,2020-05-09,4700,Yes
+1551,Female,21,Expat,Bachelor's,20,CS Agent,1,2016-08-29,7200,No
+1552,Male,25,Expat,Bachelor's,20,CS Agent,1,2025-06-09,5050,Yes
+1553,Female,27,Expat,Bachelor's,20,CS Agent,1,2022-01-06,5350,No
+1554,Female,34,Expat,Bachelor's,20,CS Agent,1,2024-07-06,7150,No
+1555,Male,32,Expat,Master's,20,CS Agent,1,2016-10-26,5800,No
+1556,Male,31,Expat,Master's,20,CS Agent,1,2020-03-03,7450,Yes
+1557,Male,32,Expat,Bachelor's,20,CS Executive,2,2016-04-10,9150,Yes
+1558,Male,36,Expat,Bachelor's,20,CS Executive,2,2024-08-09,11450,Yes
+1559,Male,37,UAE National,Master's,20,CS Executive,2,2024-07-08,11050,Yes
+1560,Female,33,Expat,High School,20,CS Agent,1,2025-06-01,6150,No
+1561,Male,21,Expat,Diploma,30,Warehouse Associate,1,2024-02-04,4900,No
+1562,Male,35,Expat,Diploma,30,Warehouse Associate,1,2024-11-09,7050,Yes
+1563,Male,27,UAE National,Bachelor's,30,Logistics Coordinator,2,2023-12-25,11450,No
+1564,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2025-05-12,7000,No
+1565,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2024-05-10,4750,No
+1566,Male,26,Expat,Bachelor's,30,Logistics Coordinator,2,2017-04-01,10650,No
+1567,Male,33,Expat,Diploma,30,Logistics Coordinator,2,2024-05-28,13150,Yes
+1568,Female,23,UAE National,Diploma,30,Warehouse Associate,1,2021-04-10,6500,No
+1569,Male,25,Expat,Bachelor's,30,Warehouse Associate,1,2024-05-27,4650,Yes
+1570,Male,39,Expat,High School,30,Warehouse Associate,1,2024-05-08,5050,No
+1571,Male,31,Expat,Diploma,30,Operations Supervisor,3,2016-03-27,18050,No
+1572,Male,37,Expat,Diploma,30,Operations Supervisor,3,2016-06-02,16400,Yes
+1573,Female,23,Expat,Diploma,30,Warehouse Associate,1,2024-09-30,7050,Yes
+1574,Female,31,Expat,Master's,30,Logistics Coordinator,2,2016-12-24,9700,Yes
+1575,Male,25,UAE National,Master's,30,Logistics Coordinator,2,2025-07-12,9600,Yes
+1576,Female,30,UAE National,Bachelor's,30,Logistics Coordinator,2,2016-01-16,9600,No
+1577,Female,35,Expat,Bachelor's,30,Logistics Coordinator,2,2025-05-24,13300,Yes
+1578,Male,37,Expat,Bachelor's,30,Operations Supervisor,3,2019-08-19,23100,No
+1579,Male,29,Expat,High School,30,Logistics Coordinator,2,2021-09-20,9100,No
+1580,Female,35,Expat,Bachelor's,30,Logistics Coordinator,2,2025-06-11,13600,Yes
+1581,Female,28,Expat,High School,30,Warehouse Associate,1,2024-07-15,6750,No
+1582,Male,27,Expat,Bachelor's,30,Warehouse Associate,1,2024-09-03,7250,Yes
+1583,Female,32,Expat,Diploma,30,Logistics Coordinator,2,2016-08-01,10300,No
+1584,Female,43,Expat,Bachelor's,30,Operations Supervisor,3,2022-08-09,24350,Yes
+1585,Male,38,Expat,High School,30,Operations Supervisor,3,2019-08-28,20900,No
+1586,Female,32,Expat,Bachelor's,30,Warehouse Associate,1,2016-09-29,5150,No
+1587,Male,32,Expat,Bachelor's,30,Logistics Coordinator,2,2024-12-19,11550,No
+1588,Male,32,Expat,Bachelor's,30,Logistics Coordinator,2,2016-07-10,10550,No
+1589,Male,33,Expat,Bachelor's,30,Logistics Coordinator,2,2025-06-11,9250,No
+1590,Male,32,UAE National,Bachelor's,30,Warehouse Associate,1,2021-09-17,5850,Yes
+1591,Male,21,Expat,Bachelor's,30,Warehouse Associate,1,2018-09-30,5600,No
+1592,Female,24,Expat,Bachelor's,30,Logistics Coordinator,2,2020-12-01,10800,No
+1593,Male,37,Expat,High School,30,Operations Supervisor,3,2023-06-18,16450,No
+1594,Male,24,Expat,Master's,30,Warehouse Associate,1,2024-01-21,6150,Yes
+1595,Male,35,Expat,Master's,30,Logistics Coordinator,2,2024-09-12,9450,Yes
+1596,Female,31,Expat,Diploma,30,Warehouse Associate,1,2022-12-20,4800,No
+1597,Male,43,Expat,Bachelor's,30,Operations Manager,4,2020-03-23,31600,No
+1598,Male,27,Expat,Master's,30,Warehouse Associate,1,2023-03-06,5850,Yes
+1599,Male,40,Expat,Master's,30,Operations Manager,4,2025-05-23,35050,Yes
+1600,Male,36,Expat,Bachelor's,30,Warehouse Associate,1,2023-11-26,6450,Yes
+1601,Male,31,Expat,Bachelor's,30,Logistics Coordinator,2,2025-02-04,11500,No
+1602,Male,31,Expat,Bachelor's,30,Operations Supervisor,3,2019-05-07,15150,No
+1603,Male,39,Expat,Bachelor's,30,Operations Supervisor,3,2023-02-16,25350,Yes
+1604,Male,39,Expat,Diploma,30,Logistics Coordinator,2,2016-11-19,8150,Yes
+1605,Male,27,UAE National,Bachelor's,30,Warehouse Associate,1,2020-03-05,6900,No
+1606,Male,33,UAE National,Bachelor's,30,Logistics Coordinator,2,2018-11-16,9800,No
+1607,Male,35,Expat,Bachelor's,30,Logistics Coordinator,2,2024-02-29,12250,Yes
+1608,Female,46,UAE National,Bachelor's,30,Operations Manager,4,2016-10-02,35600,No
+1609,Male,29,Expat,Master's,30,Warehouse Associate,1,2025-08-04,5550,Yes
+1610,Male,21,Expat,Diploma,30,Warehouse Associate,1,2021-06-04,7200,No
+1611,Male,51,Expat,Bachelor's,30,Operations Supervisor,3,2018-12-08,20950,No
+1612,Male,30,Expat,High School,30,Logistics Coordinator,2,2020-08-20,12150,No
+1613,Female,36,Expat,Bachelor's,30,Warehouse Associate,1,2025-03-13,5200,Yes
+1614,Female,29,Expat,High School,30,Warehouse Associate,1,2024-08-22,6900,No
+1615,Male,39,Expat,High School,30,Logistics Coordinator,2,2024-05-23,11000,Yes
+1616,Male,42,Expat,Bachelor's,30,Logistics Coordinator,2,2019-07-19,13550,Yes
+1617,Female,27,Expat,High School,30,Warehouse Associate,1,2021-06-01,5050,No
+1618,Female,42,Expat,Master's,30,Operations Manager,4,2018-04-26,44600,Yes
+1619,Male,37,Expat,Diploma,30,Warehouse Associate,1,2016-04-08,6500,No
+1620,Female,37,UAE National,Bachelor's,30,Operations Supervisor,3,2024-03-02,21550,Yes
+1621,Male,23,Expat,Master's,30,Warehouse Associate,1,2023-07-19,6950,No
+1622,Male,50,Expat,High School,30,Operations Manager,4,2024-01-24,39050,No
+1623,Female,26,Expat,Master's,30,Warehouse Associate,1,2016-09-03,6200,No
+1624,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2021-06-14,7150,Yes
+1625,Male,27,Expat,Bachelor's,30,Logistics Coordinator,2,2023-10-26,10350,No
+1626,Male,32,Expat,Diploma,30,Logistics Coordinator,2,2016-03-02,11150,No
+1627,Male,36,Expat,Diploma,30,Logistics Coordinator,2,2020-08-16,9600,No
+1628,Male,38,Expat,Bachelor's,30,Warehouse Associate,1,2019-01-13,5450,Yes
+1629,Male,23,Expat,Bachelor's,30,Warehouse Associate,1,2025-05-18,6450,Yes
+1630,Male,30,Expat,Diploma,30,Warehouse Associate,1,2016-10-15,5600,No
+1631,Male,27,Expat,Master's,30,Warehouse Associate,1,2025-03-22,5450,Yes
+1632,Female,26,UAE National,High School,30,Operations Supervisor,3,2017-09-12,22650,No
+1633,Female,26,Expat,Master's,30,Warehouse Associate,1,2023-11-11,5600,Yes
+1634,Female,31,Expat,Bachelor's,30,Warehouse Associate,1,2024-09-26,5750,No
+1635,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2019-11-03,5550,Yes
+1636,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2022-05-13,5950,No
+1637,Female,25,Expat,Bachelor's,30,Warehouse Associate,1,2023-08-20,5650,No
+1638,Female,32,Expat,Bachelor's,30,Warehouse Associate,1,2016-06-29,5750,Yes
+1639,Male,34,Expat,Bachelor's,30,Logistics Coordinator,2,2020-10-22,11750,No
+1640,Male,29,Expat,High School,30,Logistics Coordinator,2,2021-07-14,12450,Yes
+1641,Male,26,Expat,Bachelor's,30,Warehouse Associate,1,2021-01-04,7000,Yes
+1642,Male,38,Expat,Bachelor's,30,Logistics Coordinator,2,2025-01-26,13400,No
+1643,Female,37,Expat,Bachelor's,30,Logistics Coordinator,2,2025-07-08,8300,No
+1644,Male,32,Expat,Master's,30,Logistics Coordinator,2,2023-07-26,8050,No
+1645,Male,46,Expat,Diploma,30,Operations Manager,4,2024-11-03,30250,No
+1646,Female,34,Expat,Diploma,30,Logistics Coordinator,2,2017-09-07,10550,No
+1647,Female,34,UAE National,Diploma,30,Warehouse Associate,1,2016-08-16,7100,No
+1648,Male,33,Expat,Bachelor's,30,Logistics Coordinator,2,2021-12-31,10050,No
+1649,Female,27,Expat,Master's,30,Logistics Coordinator,2,2025-05-13,11850,Yes
+1650,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2018-04-04,6400,No
+1651,Male,27,Expat,Master's,30,Warehouse Associate,1,2024-12-24,6000,No
+1652,Male,21,Expat,Bachelor's,30,Warehouse Associate,1,2025-04-26,6750,No
+1653,Female,31,Expat,Bachelor's,30,Warehouse Associate,1,2025-08-20,7050,Yes
+1654,Male,35,Expat,Diploma,30,Logistics Coordinator,2,2018-06-18,8600,No
+1655,Male,21,Expat,Bachelor's,30,Warehouse Associate,1,2017-09-10,7350,No
+1656,Male,42,Expat,Bachelor's,30,Operations Manager,4,2022-09-23,43400,No
+1657,Male,32,Expat,Diploma,30,Warehouse Associate,1,2017-11-24,5550,No
+1658,Male,36,Expat,Master's,30,Logistics Coordinator,2,2024-05-16,11550,Yes
+1659,Male,30,Expat,Bachelor's,30,Warehouse Associate,1,2021-01-09,4550,No
+1660,Female,40,Expat,Bachelor's,30,Operations Supervisor,3,2022-10-07,15250,No
+1661,Female,28,Expat,Bachelor's,30,Logistics Coordinator,2,2024-06-21,13150,Yes
+1662,Female,42,Expat,High School,30,Operations Supervisor,3,2018-04-09,21000,Yes
+1663,Female,26,Expat,Bachelor's,30,Logistics Coordinator,2,2021-01-03,8700,No
+1664,Female,25,Expat,Master's,30,Warehouse Associate,1,2023-06-22,7450,No
+1665,Male,21,Expat,High School,30,Warehouse Associate,1,2021-02-11,6150,No
+1666,Female,37,Expat,Bachelor's,30,Logistics Coordinator,2,2018-01-28,10400,No
+1667,Male,47,Expat,Bachelor's,30,Operations Supervisor,3,2022-12-12,20000,Yes
+1668,Male,48,Expat,High School,30,Operations Manager,4,2021-11-15,42400,No
+1669,Male,28,Expat,Bachelor's,30,Logistics Coordinator,2,2019-02-03,11350,No
+1670,Male,35,Expat,Master's,30,Warehouse Associate,1,2022-11-27,6600,Yes
+1671,Male,32,Expat,Bachelor's,30,Logistics Coordinator,2,2020-08-30,12600,No
+1672,Male,38,Expat,Bachelor's,30,Operations Supervisor,3,2016-12-19,24750,No
+1673,Male,40,Expat,Bachelor's,30,Operations Supervisor,3,2024-01-14,15500,No
+1674,Female,22,Expat,Master's,30,Warehouse Associate,1,2017-03-18,5650,No
+1675,Male,36,Expat,Bachelor's,30,Warehouse Associate,1,2021-11-14,5450,Yes
+1676,Male,29,Expat,High School,30,Warehouse Associate,1,2016-09-19,5150,Yes
+1677,Female,30,Expat,Master's,30,Warehouse Associate,1,2019-12-25,6650,No
+1678,Male,31,Expat,Bachelor's,30,Warehouse Associate,1,2024-08-27,4800,No
+1679,Male,25,Expat,Bachelor's,30,Warehouse Associate,1,2022-05-03,6200,No
+1680,Male,21,Expat,Bachelor's,30,Warehouse Associate,1,2024-10-02,6100,No
+1681,Female,33,Expat,Bachelor's,30,Warehouse Associate,1,2016-05-05,4550,No
+1682,Male,24,Expat,Bachelor's,30,Warehouse Associate,1,2022-07-04,6050,No
+1683,Male,31,Expat,High School,30,Warehouse Associate,1,2025-05-17,7200,Yes
+1684,Male,28,Expat,Bachelor's,30,Logistics Coordinator,2,2024-03-15,8250,No
+1685,Male,24,Expat,Master's,30,Warehouse Associate,1,2020-02-14,7250,No
+1686,Male,44,Expat,Master's,30,Operations Manager,4,2024-08-19,44200,No
+1687,Male,22,Expat,Bachelor's,30,Warehouse Associate,1,2023-03-30,6450,Yes
+1688,Female,43,UAE National,Bachelor's,30,Warehouse Associate,1,2020-07-22,5800,No
+1689,Male,44,Expat,Bachelor's,30,Operations Manager,4,2020-11-06,34000,No
+1690,Female,29,Expat,Diploma,30,Warehouse Associate,1,2024-11-25,6600,Yes
+1691,Female,39,Expat,Master's,30,Logistics Coordinator,2,2019-02-01,10800,Yes
+1692,Male,30,Expat,Diploma,30,Warehouse Associate,1,2021-04-14,7200,Yes
+1693,Female,39,Expat,Bachelor's,30,Warehouse Associate,1,2024-07-04,5000,No
+1694,Female,37,Expat,Diploma,30,Warehouse Associate,1,2018-07-24,7350,No
+1695,Female,37,Expat,High School,30,Logistics Coordinator,2,2025-03-26,8650,No
+1696,Male,35,Expat,Bachelor's,30,Logistics Coordinator,2,2023-05-07,13550,Yes
+1697,Male,21,Expat,Diploma,30,Warehouse Associate,1,2017-07-26,7450,No
+1698,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2019-03-08,6400,Yes
+1699,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2016-04-15,6050,No
+1700,Male,39,Expat,Diploma,30,Warehouse Associate,1,2022-01-15,7350,No
+1701,Female,21,Expat,Bachelor's,30,Warehouse Associate,1,2017-03-13,6100,No
+1702,Male,33,Expat,Bachelor's,30,Warehouse Associate,1,2021-01-04,4550,No
+1703,Male,29,Expat,Bachelor's,30,Warehouse Associate,1,2020-10-22,7100,No
+1704,Male,28,Expat,Bachelor's,30,Logistics Coordinator,2,2020-09-17,13700,No
+1705,Male,30,UAE National,Bachelor's,30,Logistics Coordinator,2,2019-03-01,11200,No
+1706,Male,31,Expat,Bachelor's,30,Logistics Coordinator,2,2024-10-29,12350,Yes
+1707,Female,32,Expat,Master's,30,Logistics Coordinator,2,2024-08-03,11700,Yes
+1708,Male,25,Expat,Bachelor's,30,Warehouse Associate,1,2025-03-28,4950,Yes
+1709,Male,31,Expat,Diploma,30,Warehouse Associate,1,2019-04-24,5800,No
+1710,Male,26,Expat,High School,30,Logistics Coordinator,2,2022-02-12,9350,Yes
+1711,Male,32,UAE National,High School,30,Warehouse Associate,1,2024-05-22,5450,No
+1712,Female,24,Expat,Bachelor's,30,Warehouse Associate,1,2025-06-20,6850,Yes
+1713,Male,31,Expat,Diploma,30,Warehouse Associate,1,2019-02-10,7000,No
+1714,Male,30,Expat,Diploma,30,Logistics Coordinator,2,2025-04-26,13250,No
+1715,Male,30,Expat,Bachelor's,30,Logistics Coordinator,2,2020-08-29,10100,No
+1716,Female,31,Expat,High School,30,Logistics Coordinator,2,2021-07-23,11750,No
+1717,Male,33,Expat,Bachelor's,30,Warehouse Associate,1,2017-10-18,4850,No
+1718,Female,28,Expat,Diploma,30,Warehouse Associate,1,2024-07-06,6200,Yes
+1719,Male,25,Expat,Master's,30,Warehouse Associate,1,2018-01-05,5100,Yes
+1720,Male,32,Expat,High School,30,Warehouse Associate,1,2021-04-10,5100,No
+1721,Male,29,Expat,Master's,30,Warehouse Associate,1,2018-07-02,5900,Yes
+1722,Male,38,Expat,Bachelor's,30,Operations Supervisor,3,2017-04-21,23500,No
+1723,Male,28,Expat,High School,30,Warehouse Associate,1,2022-08-26,5300,No
+1724,Male,39,Expat,High School,30,Operations Supervisor,3,2021-11-03,25000,No
+1725,Male,37,Expat,Bachelor's,30,Operations Supervisor,3,2025-07-30,15050,Yes
+1726,Male,33,Expat,Diploma,30,Logistics Coordinator,2,2021-04-11,11250,No
+1727,Female,40,Expat,Master's,30,Operations Manager,4,2024-11-23,29650,No
+1728,Male,40,Expat,Bachelor's,30,Logistics Coordinator,2,2024-03-13,12300,Yes
+1729,Female,28,Expat,Bachelor's,30,Logistics Coordinator,2,2021-08-06,11300,No
+1730,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2024-06-22,5350,Yes
+1731,Male,31,Expat,Diploma,30,Warehouse Associate,1,2016-05-18,5850,No
+1732,Male,25,Expat,Master's,30,Warehouse Associate,1,2021-12-03,6350,No
+1733,Male,30,Expat,Bachelor's,30,Logistics Coordinator,2,2025-05-29,11550,No
+1734,Female,36,Expat,Bachelor's,30,Operations Supervisor,3,2025-05-05,22350,No
+1735,Female,27,Expat,Master's,30,Warehouse Associate,1,2018-01-01,7300,Yes
+1736,Female,28,Expat,Bachelor's,30,Warehouse Associate,1,2016-10-19,4650,Yes
+1737,Male,32,Expat,Master's,30,Warehouse Associate,1,2025-03-07,6800,No
+1738,Male,29,UAE National,Master's,30,Warehouse Associate,1,2016-06-24,6100,Yes
+1739,Female,33,Expat,Diploma,30,Warehouse Associate,1,2024-12-08,6500,Yes
+1740,Female,34,Expat,Bachelor's,30,Warehouse Associate,1,2020-05-08,7350,No
+1741,Male,26,Expat,Bachelor's,30,Warehouse Associate,1,2020-01-12,7500,Yes
+1742,Male,25,Expat,Bachelor's,30,Warehouse Associate,1,2024-12-18,4900,No
+1743,Male,29,Expat,Diploma,30,Logistics Coordinator,2,2018-07-23,12400,No
+1744,Male,29,Expat,Master's,30,Logistics Coordinator,2,2020-11-16,8750,No
+1745,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2022-07-30,6750,Yes
+1746,Female,26,Expat,Master's,30,Logistics Coordinator,2,2022-11-29,10750,No
+1747,Male,32,Expat,Master's,30,Logistics Coordinator,2,2021-08-29,12700,No
+1748,Male,35,Expat,Master's,30,Warehouse Associate,1,2024-05-02,7100,Yes
+1749,Male,35,Expat,Bachelor's,30,Logistics Coordinator,2,2025-03-01,8900,Yes
+1750,Male,30,Expat,Master's,30,Logistics Coordinator,2,2024-07-02,9850,Yes
+1751,Female,33,Expat,Bachelor's,30,Warehouse Associate,1,2018-07-11,5900,Yes
+1752,Female,33,Expat,Diploma,30,Warehouse Associate,1,2025-02-21,7250,Yes
+1753,Male,32,Expat,High School,30,Warehouse Associate,1,2025-06-10,6100,No
+1754,Male,28,Expat,High School,30,Warehouse Associate,1,2016-09-25,7100,Yes
+1755,Male,27,Expat,High School,30,Warehouse Associate,1,2017-03-25,4750,No
+1756,Male,39,Expat,Diploma,30,Logistics Coordinator,2,2025-06-17,9900,Yes
+1757,Female,29,Expat,High School,30,Warehouse Associate,1,2024-02-01,4500,No
+1758,Female,27,Expat,Bachelor's,30,Warehouse Associate,1,2023-02-20,5800,Yes
+1759,Female,29,Expat,Master's,30,Warehouse Associate,1,2019-05-28,4600,Yes
+1760,Male,35,Expat,High School,30,Logistics Coordinator,2,2019-01-17,9700,No
+1761,Female,34,Expat,Bachelor's,30,Warehouse Associate,1,2021-10-19,5300,No
+1762,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2017-05-28,5300,No
+1763,Male,44,Expat,Master's,30,Operations Supervisor,3,2024-07-30,18750,No
+1764,Male,38,Expat,Master's,30,Warehouse Associate,1,2024-03-29,4800,No
+1765,Male,27,Expat,Bachelor's,30,Warehouse Associate,1,2025-02-18,6300,No
+1766,Male,40,Expat,Diploma,30,Warehouse Associate,1,2018-11-06,4700,No
+1767,Female,29,Expat,Bachelor's,30,Warehouse Associate,1,2023-09-18,5200,No
+1768,Male,37,Expat,Master's,30,Logistics Coordinator,2,2024-02-12,8850,Yes
+1769,Male,31,Expat,Bachelor's,30,Warehouse Associate,1,2024-10-31,4900,No
+1770,Female,34,Expat,Diploma,30,Warehouse Associate,1,2021-03-11,6400,No
+1771,Male,21,Expat,High School,30,Warehouse Associate,1,2024-09-09,6900,No
+1772,Male,36,Expat,Diploma,30,Warehouse Associate,1,2019-09-14,5800,Yes
+1773,Male,30,Expat,Bachelor's,30,Logistics Coordinator,2,2017-06-13,11000,Yes
+1774,Female,31,UAE National,High School,30,Warehouse Associate,1,2024-04-18,6950,No
+1775,Female,36,Expat,Bachelor's,30,Warehouse Associate,1,2019-02-18,6350,No
+1776,Male,41,Expat,Diploma,30,Operations Manager,4,2023-11-29,30900,No
+1777,Female,33,Expat,High School,30,Logistics Coordinator,2,2016-05-05,13450,No
+1778,Male,21,Expat,Bachelor's,30,Warehouse Associate,1,2024-07-31,5850,No
+1779,Female,44,Expat,Bachelor's,30,Operations Supervisor,3,2022-06-24,24450,No
+1780,Male,32,Expat,Diploma,30,Operations Supervisor,3,2024-06-19,17150,No
+1781,Female,33,UAE National,Bachelor's,30,Warehouse Associate,1,2023-06-10,5500,Yes
+1782,Female,21,Expat,Diploma,30,Warehouse Associate,1,2024-12-14,6800,Yes
+1783,Male,33,Expat,Diploma,30,Logistics Coordinator,2,2018-08-18,11800,No
+1784,Male,24,Expat,Diploma,30,Warehouse Associate,1,2024-02-19,7400,Yes
+1785,Male,28,Expat,Bachelor's,30,Warehouse Associate,1,2025-04-17,6200,No
+1786,Female,27,Expat,High School,30,Warehouse Associate,1,2020-05-28,6800,Yes
+1787,Male,34,UAE National,Bachelor's,30,Warehouse Associate,1,2025-05-20,4550,Yes
+1788,Male,35,Expat,Bachelor's,30,Warehouse Associate,1,2017-09-20,7300,Yes
+1789,Male,38,Expat,Bachelor's,30,Operations Supervisor,3,2022-06-18,22400,No
+1790,Female,29,Expat,Bachelor's,30,Warehouse Associate,1,2025-08-17,5700,Yes
+1791,Male,21,Expat,Bachelor's,30,Logistics Coordinator,2,2021-12-16,9950,No
+1792,Male,27,Expat,Bachelor's,30,Logistics Coordinator,2,2018-03-19,9650,No
+1793,Female,37,Expat,Bachelor's,30,Logistics Coordinator,2,2024-02-09,8900,Yes
+1794,Male,34,Expat,Diploma,30,Logistics Coordinator,2,2018-01-11,8850,No
+1795,Female,27,Expat,Diploma,30,Warehouse Associate,1,2021-12-09,6350,No
+1796,Female,31,Expat,Master's,30,Warehouse Associate,1,2024-05-06,5750,No
+1797,Female,28,Expat,Bachelor's,30,Warehouse Associate,1,2016-09-05,5250,No
+1798,Male,31,Expat,Bachelor's,30,Warehouse Associate,1,2019-09-07,6250,No
+1799,Male,40,Expat,Diploma,30,Operations Supervisor,3,2019-01-17,21800,No
+1800,Male,26,Expat,High School,30,Warehouse Associate,1,2019-08-27,5350,No
+1801,Male,25,Expat,Bachelor's,40,Accounts Assistant,1,2025-07-29,6050,No
+1802,Male,30,Expat,Master's,40,Accounts Assistant,1,2024-11-06,4600,No
+1803,Female,28,Expat,Diploma,40,Accounts Assistant,1,2024-03-14,6650,No
+1804,Male,21,Expat,Bachelor's,40,Accounts Assistant,1,2024-06-19,5250,No
+1805,Male,39,Expat,Bachelor's,40,Finance Manager,3,2025-08-23,21600,No
+1806,Male,30,Expat,Diploma,40,Accountant,2,2025-06-10,8450,No
+1807,Female,33,Expat,Bachelor's,40,Accounts Assistant,1,2025-01-24,4800,No
+1808,Male,28,Expat,Master's,40,Accounts Assistant,1,2023-03-06,6850,No
+1809,Male,30,Expat,Diploma,40,Accountant,2,2025-03-03,8200,No
+1810,Male,35,UAE National,High School,40,Accountant,2,2024-12-09,10550,No
+1811,Male,29,Expat,Bachelor's,40,Accounts Assistant,1,2021-05-24,6000,No
+1812,Female,30,Expat,Diploma,40,Accounts Assistant,1,2018-08-14,7050,No
+1813,Female,21,UAE National,Master's,40,Accounts Assistant,1,2023-05-04,5150,Yes
+1814,Female,26,Expat,Master's,40,Accounts Assistant,1,2024-04-26,5550,No
+1815,Male,36,Expat,Bachelor's,40,Finance Manager,3,2018-03-14,17400,No
+1816,Male,36,Expat,Diploma,40,Accounts Assistant,1,2023-08-01,7200,No
+1817,Male,26,Expat,Bachelor's,40,Accounts Assistant,1,2025-01-22,6250,No
+1818,Male,46,Expat,Diploma,40,Finance Director,4,2016-02-02,43600,Yes
+1819,Female,39,Expat,Master's,40,Finance Director,4,2024-10-13,28600,No
+1820,Female,21,Expat,Diploma,40,Accounts Assistant,1,2024-01-26,5050,No
+1821,Male,27,Expat,High School,40,Accounts Assistant,1,2021-12-17,7300,No
+1822,Male,25,UAE National,High School,40,Accounts Assistant,1,2017-02-09,5550,No
+1823,Female,45,Expat,High School,40,Accountant,2,2022-08-29,10050,Yes
+1824,Female,36,UAE National,Bachelor's,40,Finance Manager,3,2022-03-23,22850,No
+1825,Male,25,Expat,Bachelor's,40,Accounts Assistant,1,2023-05-21,6650,No
+1826,Male,31,Expat,Master's,40,Accounts Assistant,1,2023-04-14,6850,No
+1827,Male,34,Expat,Diploma,40,Finance Manager,3,2017-11-15,16200,No
+1828,Female,23,Expat,Bachelor's,40,Accounts Assistant,1,2025-08-19,7200,No
+1829,Male,24,Expat,Diploma,40,Accounts Assistant,1,2019-07-30,6450,No
+1830,Male,31,Expat,Diploma,40,Accounts Assistant,1,2018-02-13,6150,No
+1831,Male,33,Expat,Bachelor's,40,Finance Manager,3,2019-03-26,19100,No
+1832,Male,26,Expat,Bachelor's,40,Accounts Assistant,1,2025-03-30,5550,Yes
+1833,Female,21,Expat,High School,40,Accounts Assistant,1,2025-03-13,6500,No
+1834,Male,29,Expat,Master's,40,Accounts Assistant,1,2016-03-03,4800,No
+1835,Male,28,Expat,Diploma,40,Accounts Assistant,1,2022-08-12,5650,No
+1836,Male,22,Expat,Master's,40,Accounts Assistant,1,2025-01-06,6350,No
+1837,Female,38,Expat,Bachelor's,40,Finance Manager,3,2024-12-21,19250,No
+1838,Male,38,Expat,Diploma,40,Finance Manager,3,2024-08-10,21300,No
+1839,Male,21,Expat,Bachelor's,40,Accounts Assistant,1,2025-06-19,6500,No
+1840,Male,43,Expat,Bachelor's,40,Accounts Assistant,1,2020-06-05,5450,No
+1841,Female,26,Expat,Diploma,40,Accounts Assistant,1,2023-06-30,5500,No
+1842,Male,21,Expat,High School,40,Accounts Assistant,1,2018-05-18,5750,No
+1843,Female,36,Expat,High School,40,Accounts Assistant,1,2019-08-05,5100,No
+1844,Male,33,Expat,Bachelor's,40,Accountant,2,2016-09-13,13450,No
+1845,Male,30,Expat,Bachelor's,40,Accountant,2,2021-05-17,13550,Yes
+1846,Female,27,Expat,Diploma,40,Accounts Assistant,1,2024-11-19,4900,No
+1847,Female,44,Expat,Master's,40,Finance Manager,3,2024-09-14,22050,No
+1848,Female,22,Expat,High School,40,Accounts Assistant,1,2018-02-24,5600,No
+1849,Male,31,Expat,Diploma,40,Accountant,2,2024-09-21,9550,No
+1850,Male,39,Expat,Bachelor's,40,Finance Manager,3,2024-10-24,20450,No
+1851,Male,39,UAE National,Diploma,40,Accounts Assistant,1,2025-06-19,6000,Yes
+1852,Male,28,Expat,High School,40,Accounts Assistant,1,2017-07-20,6400,No
+1853,Male,38,Expat,Bachelor's,40,Finance Manager,3,2023-05-17,22050,No
+1854,Female,25,Expat,Bachelor's,40,Accounts Assistant,1,2024-03-16,6600,No
+1855,Male,22,Expat,Bachelor's,40,Accounts Assistant,1,2016-02-20,6850,No
+1856,Male,35,Expat,Diploma,40,Accountant,2,2018-02-28,10900,Yes
+1857,Male,28,Expat,Diploma,40,Accountant,2,2019-09-19,11200,No
+1858,Female,24,Expat,Bachelor's,40,Accounts Assistant,1,2024-10-07,6600,No
+1859,Male,25,Expat,Bachelor's,40,Accounts Assistant,1,2020-03-31,7350,No
+1860,Male,37,Expat,High School,40,Accountant,2,2024-12-24,8200,No
+1861,Male,31,Expat,Bachelor's,40,Accounts Assistant,1,2024-08-20,7200,No
+1862,Male,40,Expat,Bachelor's,40,Finance Director,4,2025-07-18,31150,No
+1863,Male,25,Expat,High School,40,Accounts Assistant,1,2025-01-17,6700,No
+1864,Female,22,UAE National,Diploma,40,Accounts Assistant,1,2017-10-10,6500,No
+1865,Male,28,Expat,Bachelor's,40,Accounts Assistant,1,2020-03-14,6100,Yes
+1866,Male,23,Expat,Diploma,40,Accounts Assistant,1,2018-04-14,5450,No
+1867,Male,48,Expat,High School,40,Accountant,2,2018-02-26,9900,No
+1868,Male,33,Expat,Diploma,40,Accounts Assistant,1,2025-01-18,4600,No
+1869,Female,37,UAE National,Bachelor's,40,Accountant,2,2021-09-26,13350,No
+1870,Male,28,Expat,Bachelor's,40,Accounts Assistant,1,2021-08-09,4750,No
+1871,Male,30,Expat,High School,40,Accounts Assistant,1,2024-09-04,6350,No
+1872,Female,33,Expat,Diploma,40,Accountant,2,2025-09-29,8000,Yes
+1873,Male,35,Expat,Bachelor's,40,Accountant,2,2018-12-18,11000,Yes
+1874,Female,28,UAE National,Master's,40,Accounts Assistant,1,2016-08-03,5050,No
+1875,Male,31,Expat,Bachelor's,40,Finance Manager,3,2025-01-21,17200,No
+1876,Male,38,Expat,High School,40,Accountant,2,2020-10-27,10450,No
+1877,Female,24,Expat,High School,40,Accounts Assistant,1,2023-09-21,4950,No
+1878,Female,41,Expat,Bachelor's,40,Finance Manager,3,2021-07-31,21250,No
+1879,Female,30,Expat,High School,40,Accounts Assistant,1,2017-12-17,6650,Yes
+1880,Male,40,Expat,Bachelor's,40,Finance Manager,3,2017-09-12,16950,No
+1881,Female,32,Expat,Master's,40,Accounts Assistant,1,2017-09-17,5500,No
+1882,Male,25,Expat,Master's,40,Accounts Assistant,1,2020-04-08,5150,Yes
+1883,Male,43,Expat,Master's,40,Finance Director,4,2016-06-07,37300,No
+1884,Female,33,Expat,Master's,40,Accounts Assistant,1,2024-12-14,4650,No
+1885,Female,35,Expat,High School,40,Accounts Assistant,1,2019-12-15,5100,No
+1886,Male,25,Expat,Bachelor's,40,Accounts Assistant,1,2022-09-30,5950,Yes
+1887,Female,33,Expat,Diploma,40,Accounts Assistant,1,2024-05-31,5400,No
+1888,Male,31,Expat,High School,40,Accountant,2,2025-07-02,11950,Yes
+1889,Male,31,Expat,Bachelor's,40,Accounts Assistant,1,2024-08-26,6900,No
+1890,Male,28,Expat,High School,40,Accounts Assistant,1,2024-10-26,7500,No
+1891,Female,31,Expat,Bachelor's,50,HR Executive,2,2019-11-22,12500,Yes
+1892,Female,26,Expat,High School,50,HR Assistant,1,2024-03-01,6400,No
+1893,Male,29,Expat,Bachelor's,50,HR Assistant,1,2025-02-22,4600,No
+1894,Male,26,Expat,Bachelor's,50,HR Executive,2,2024-04-23,11500,No
+1895,Female,33,UAE National,Master's,50,HR Assistant,1,2021-02-18,4900,Yes
+1896,Male,33,Expat,Bachelor's,50,HR Assistant,1,2025-05-29,6300,No
+1897,Female,28,Expat,Bachelor's,50,HR Executive,2,2022-03-18,13350,Yes
+1898,Female,26,Expat,Master's,50,HR Assistant,1,2020-04-22,7300,No
+1899,Male,31,Expat,Diploma,50,HR Executive,2,2020-10-15,8250,No
+1900,Female,25,Expat,Master's,50,HR Assistant,1,2024-03-24,7400,No
+1901,Male,28,Expat,High School,50,HR Executive,2,2019-05-08,13250,No
+1902,Male,35,Expat,Bachelor's,50,HR Assistant,1,2024-03-10,4900,No
+1903,Male,29,Expat,Bachelor's,50,HR Assistant,1,2023-03-24,6300,No
+1904,Male,25,Expat,Bachelor's,50,HR Assistant,1,2024-04-04,7500,No
+1905,Male,42,Expat,High School,50,HR Manager,3,2016-06-13,22250,No
+1906,Female,22,Expat,Bachelor's,50,HR Assistant,1,2022-11-23,6300,No
+1907,Male,25,Expat,High School,50,HR Assistant,1,2021-05-07,7050,No
+1908,Male,33,Expat,High School,50,HR Assistant,1,2021-07-16,5050,No
+1909,Male,27,Expat,Bachelor's,50,HR Assistant,1,2024-02-18,6550,No
+1910,Female,25,Expat,Master's,50,HR Assistant,1,2024-02-05,5300,Yes
+1911,Female,36,Expat,Bachelor's,50,HR Executive,2,2021-06-01,13500,No
+1912,Male,37,Expat,Bachelor's,50,HR Executive,2,2020-07-15,11500,Yes
+1913,Male,33,Expat,Master's,50,HR Assistant,1,2025-03-05,6300,No
+1914,Male,29,UAE National,Master's,50,HR Executive,2,2020-02-05,12500,No
+1915,Female,32,Expat,Master's,50,HR Executive,2,2024-09-17,9400,No
+1916,Male,32,Expat,High School,50,HR Assistant,1,2018-02-18,7250,No
+1917,Female,47,Expat,Bachelor's,50,HR Manager,3,2024-08-18,24400,No
+1918,Female,34,Expat,Diploma,50,HR Executive,2,2021-03-29,9250,Yes
+1919,Male,33,Expat,Master's,50,HR Executive,2,2024-01-30,8400,Yes
+1920,Female,30,Expat,Master's,50,HR Assistant,1,2023-05-17,6700,No
+1921,Male,30,Expat,Bachelor's,50,HR Executive,2,2022-10-30,10900,No
+1922,Female,41,Expat,Bachelor's,50,HR Manager,3,2022-10-04,18800,No
+1923,Male,24,Expat,Bachelor's,50,HR Assistant,1,2025-04-29,4650,Yes
+1924,Female,28,UAE National,Bachelor's,50,HR Assistant,1,2017-02-22,5450,No
+1925,Female,31,Expat,Diploma,50,HR Assistant,1,2025-06-24,5450,Yes
+1926,Female,36,Expat,High School,50,HR Assistant,1,2024-09-02,5950,No
+1927,Male,27,Expat,Diploma,50,HR Assistant,1,2024-12-29,5150,No
+1928,Male,41,Expat,Bachelor's,50,HR Assistant,1,2024-06-12,6250,Yes
+1929,Female,35,Expat,Bachelor's,50,HR Executive,2,2020-03-06,11750,No
+1930,Female,24,Expat,High School,50,HR Assistant,1,2024-10-18,4950,Yes
+1931,Male,35,Expat,High School,50,HR Assistant,1,2025-08-15,5200,Yes
+1932,Female,25,Expat,Bachelor's,50,HR Assistant,1,2020-10-19,5650,No
+1933,Female,28,Expat,Bachelor's,50,HR Assistant,1,2021-03-22,5450,No
+1934,Male,36,Expat,Bachelor's,50,HR Executive,2,2022-07-25,10650,No
+1935,Male,29,Expat,High School,50,HR Assistant,1,2020-02-17,5600,No
+1936,Female,25,Expat,Diploma,50,HR Executive,2,2019-10-20,11250,Yes
+1937,Male,41,Expat,High School,50,HR Manager,3,2018-01-05,15200,No
+1938,Male,28,UAE National,Diploma,50,HR Assistant,1,2024-11-27,7050,No
+1939,Female,33,Expat,Diploma,50,HR Executive,2,2024-03-18,11900,No
+1940,Female,35,Expat,Bachelor's,50,HR Executive,2,2017-07-30,11250,Yes
+1941,Female,36,Expat,Diploma,50,HR Executive,2,2022-02-27,13350,No
+1942,Male,37,Expat,Bachelor's,50,HR Manager,3,2020-02-21,15500,No
+1943,Female,32,Expat,Bachelor's,50,HR Assistant,1,2016-10-04,5700,No
+1944,Male,21,Expat,Bachelor's,50,HR Assistant,1,2021-07-19,6150,No
+1945,Male,35,Expat,Diploma,50,HR Executive,2,2024-02-16,8250,Yes
+1946,Male,27,Expat,Bachelor's,50,HR Assistant,1,2024-03-14,6150,No
+1947,Male,28,Expat,Master's,50,HR Assistant,1,2019-02-28,6700,No
+1948,Female,24,Expat,High School,50,HR Assistant,1,2016-05-30,6700,Yes
+1949,Male,30,Expat,Bachelor's,50,HR Assistant,1,2023-07-20,5750,No
+1950,Male,32,UAE National,Master's,50,HR Assistant,1,2022-06-10,5300,Yes
+1951,Female,28,Expat,Diploma,60,IT Support,1,2024-06-19,6900,No
+1952,Male,30,Expat,Bachelor's,60,IT Support,1,2020-04-18,4550,Yes
+1953,Male,29,Expat,Bachelor's,60,Developer,2,2017-07-21,13950,No
+1954,Male,47,Expat,Diploma,60,Developer,2,2025-06-09,8750,Yes
+1955,Male,38,Expat,High School,60,Developer,2,2024-05-15,13600,Yes
+1956,Female,21,Expat,Master's,60,IT Support,1,2021-05-26,6600,No
+1957,Female,32,Expat,Master's,60,Developer,2,2016-12-17,13650,No
+1958,Male,26,Expat,Bachelor's,60,IT Support,1,2022-11-11,5350,No
+1959,Male,39,Expat,Diploma,60,IT Support,1,2024-07-29,5800,Yes
+1960,Male,38,UAE National,Bachelor's,60,IT Manager,3,2025-05-07,16200,No
+1961,Female,33,Expat,Bachelor's,60,Developer,2,2023-04-19,13550,No
+1962,Male,29,Expat,Bachelor's,60,IT Support,1,2024-08-13,4600,Yes
+1963,Male,34,Expat,Bachelor's,60,Developer,2,2021-04-04,9200,No
+1964,Male,43,Expat,Bachelor's,60,IT Manager,3,2022-09-01,20050,No
+1965,Male,27,Expat,Bachelor's,60,IT Support,1,2023-05-28,6400,No
+1966,Male,39,Expat,Bachelor's,60,Developer,2,2023-06-05,13100,No
+1967,Female,31,Expat,High School,60,IT Support,1,2024-11-15,5250,No
+1968,Female,45,Expat,Master's,60,Developer,2,2023-07-16,11450,Yes
+1969,Female,34,Expat,Bachelor's,60,Developer,2,2024-11-29,10450,No
+1970,Female,28,UAE National,Bachelor's,60,IT Support,1,2024-09-23,5000,No
+1971,Male,31,Expat,Master's,60,Developer,2,2020-01-21,12250,Yes
+1972,Female,35,Expat,Bachelor's,60,Developer,2,2019-04-26,10700,No
+1973,Female,33,Expat,Diploma,60,IT Support,1,2023-04-01,4750,No
+1974,Female,37,Expat,Diploma,60,IT Manager,3,2024-10-24,16600,No
+1975,Female,44,Expat,High School,60,IT Director,4,2020-09-30,44600,No
+1976,Female,41,Expat,High School,60,IT Manager,3,2025-08-21,25200,No
+1977,Male,27,Expat,Bachelor's,60,Developer,2,2019-02-07,8900,No
+1978,Male,28,UAE National,Bachelor's,60,IT Support,1,2018-04-29,5400,No
+1979,Female,30,UAE National,Diploma,60,IT Support,1,2025-05-11,7300,No
+1980,Male,37,Expat,Diploma,60,Developer,2,2024-01-24,8450,No
+1981,Female,40,Expat,Bachelor's,60,IT Support,1,2024-05-31,5550,No
+1982,Female,31,Expat,Bachelor's,60,Developer,2,2019-10-06,13800,No
+1983,Male,34,Expat,High School,60,IT Support,1,2016-01-30,5050,No
+1984,Male,31,Expat,Bachelor's,60,IT Support,1,2024-12-09,5250,No
+1985,Female,24,Expat,Master's,60,IT Support,1,2024-09-12,5850,No
+1986,Female,25,Expat,Bachelor's,60,IT Support,1,2025-06-13,7000,Yes
+1987,Male,42,Expat,Bachelor's,60,Developer,2,2019-11-16,13600,No
+1988,Male,25,Expat,Bachelor's,60,IT Support,1,2021-09-20,4800,Yes
+1989,Female,29,Expat,Bachelor's,60,IT Support,1,2022-01-16,6650,No
+1990,Female,27,Expat,Bachelor's,60,IT Support,1,2023-10-27,5950,No
+1991,Female,23,Expat,Bachelor's,60,IT Support,1,2019-11-24,4600,Yes
+1992,Male,26,Expat,Diploma,60,IT Support,1,2025-07-23,7450,No
+1993,Male,34,Expat,Diploma,60,Developer,2,2025-06-29,12050,No
+1994,Male,31,Expat,Diploma,60,Developer,2,2018-01-07,8550,No
+1995,Male,34,Expat,Bachelor's,60,IT Support,1,2019-03-08,5400,No
+1996,Female,33,Expat,Bachelor's,60,Developer,2,2016-06-06,8950,No
+1997,Female,23,Expat,Diploma,60,Developer,2,2023-04-12,11150,No
+1998,Male,32,Expat,High School,60,Developer,2,2023-02-26,9250,No
+1999,Male,33,Expat,High School,60,IT Support,1,2016-01-27,7000,Yes
+2000,Female,31,Expat,Bachelor's,60,IT Support,1,2023-02-11,6300,No
+2001,Male,29,UAE National,Diploma,60,Developer,2,2020-06-26,13600,No
+2002,Male,28,Expat,Bachelor's,60,IT Support,1,2016-08-28,6500,No
+2003,Male,31,Expat,Bachelor's,60,IT Support,1,2024-06-24,5450,No
+2004,Male,22,Expat,Diploma,60,IT Support,1,2018-12-06,6200,No
+2005,Male,39,Expat,Diploma,60,IT Manager,3,2021-12-26,24700,No
+2006,Female,32,Expat,Diploma,60,IT Support,1,2022-08-18,7500,Yes
+2007,Female,27,Expat,Bachelor's,60,IT Support,1,2016-04-21,6450,No
+2008,Female,22,Expat,High School,60,IT Support,1,2024-04-26,5900,No
+2009,Male,25,Expat,Bachelor's,60,Developer,2,2025-01-24,8550,No
+2010,Female,34,Expat,High School,60,IT Manager,3,2018-12-07,25200,Yes
+2011,Female,25,Expat,Bachelor's,60,IT Support,1,2017-11-03,7100,Yes
+2012,Female,28,Expat,Master's,60,IT Support,1,2016-03-02,6750,No
+2013,Female,26,Expat,Bachelor's,60,IT Support,1,2021-10-18,4550,No
+2014,Male,24,Expat,Bachelor's,60,IT Support,1,2023-09-11,5300,No
+2015,Female,22,Expat,High School,60,IT Support,1,2019-01-02,6200,No
+2016,Male,30,Expat,Bachelor's,60,Developer,2,2018-05-20,12750,No
+2017,Female,28,Expat,Bachelor's,60,IT Support,1,2024-04-19,6650,No
+2018,Female,42,Expat,Bachelor's,60,IT Manager,3,2019-08-04,23350,No
+2019,Male,22,Expat,Bachelor's,60,IT Support,1,2024-04-27,7300,No
+2020,Female,34,UAE National,High School,60,IT Support,1,2022-01-22,5350,No
+2021,Male,37,Expat,Bachelor's,60,IT Manager,3,2021-11-22,19450,No
+2022,Male,27,UAE National,Bachelor's,60,IT Support,1,2016-01-17,5600,No
+2023,Female,28,Expat,Diploma,60,IT Support,1,2016-03-31,6850,No
+2024,Male,23,Expat,Bachelor's,60,IT Support,1,2021-12-15,5550,No
+2025,Male,36,Expat,High School,60,Developer,2,2020-06-09,8350,No
+2026,Male,42,Expat,Bachelor's,60,Developer,2,2022-08-07,10000,No
+2027,Female,28,Expat,High School,60,IT Support,1,2024-01-04,5300,No
+2028,Female,28,Expat,Master's,60,Developer,2,2017-03-28,10350,No
+2029,Female,27,Expat,Bachelor's,60,IT Support,1,2025-01-09,5600,Yes
+2030,Male,24,Expat,Diploma,60,IT Support,1,2025-02-20,4800,No
+2031,Female,30,Expat,Bachelor's,60,IT Support,1,2020-09-11,5900,Yes
+2032,Male,32,Expat,Diploma,60,IT Support,1,2023-02-25,5300,No
+2033,Male,37,Expat,Bachelor's,60,Developer,2,2020-11-24,12150,No
+2034,Female,33,Expat,Master's,60,IT Support,1,2020-04-13,5600,No
+2035,Male,31,Expat,Bachelor's,60,IT Manager,3,2018-12-18,17300,No
+2036,Male,39,Expat,High School,60,Developer,2,2018-12-08,9400,No
+2037,Female,27,Expat,Bachelor's,60,IT Support,1,2024-02-13,5600,No
+2038,Female,32,Expat,Bachelor's,60,IT Support,1,2024-11-06,5400,No
+2039,Male,43,Expat,Master's,60,IT Manager,3,2024-12-02,18550,No
+2040,Male,34,Expat,Bachelor's,60,IT Manager,3,2018-06-30,18100,No
+2041,Male,29,Expat,Diploma,60,IT Manager,3,2020-05-30,23000,No
+2042,Female,27,Expat,Diploma,60,IT Support,1,2021-03-05,5600,No
+2043,Male,28,Expat,Bachelor's,60,Developer,2,2022-01-22,10050,No
+2044,Male,46,Expat,Bachelor's,60,IT Director,4,2016-10-09,35800,No
+2045,Female,43,Expat,High School,60,Developer,2,2020-08-30,11900,No
+2046,Male,28,Expat,Diploma,60,IT Support,1,2019-09-18,5600,No
+2047,Female,29,Expat,Diploma,60,IT Support,1,2020-10-09,7350,No
+2048,Female,24,Expat,High School,60,IT Support,1,2019-08-19,5150,No
+2049,Male,37,Expat,Bachelor's,60,Developer,2,2024-12-22,11300,No
+2050,Female,29,Expat,High School,60,Developer,2,2016-07-12,12800,No
+2051,Male,30,Expat,Diploma,60,IT Support,1,2017-05-14,6350,Yes
+2052,Male,32,Expat,Master's,60,IT Support,1,2025-01-16,6600,No
+2053,Male,35,Expat,Bachelor's,60,Developer,2,2018-05-01,9950,No
+2054,Male,37,Expat,Diploma,60,IT Manager,3,2020-08-29,17450,No
+2055,Male,48,Expat,Bachelor's,60,IT Director,4,2021-10-22,43000,No
+2056,Male,21,Expat,Master's,60,IT Support,1,2021-06-01,6900,No
+2057,Male,30,UAE National,Diploma,60,Developer,2,2023-08-25,8000,No
+2058,Male,26,Expat,Diploma,60,Developer,2,2024-08-23,11350,Yes
+2059,Male,31,Expat,High School,60,IT Support,1,2024-06-07,4800,No
+2060,Female,28,Expat,Diploma,60,IT Support,1,2023-04-25,7300,No
+2061,Male,32,Expat,Bachelor's,70,Marketing Assistant,1,2020-06-06,5500,No
+2062,Female,27,UAE National,Diploma,70,Marketing Executive,2,2022-02-03,13700,No
+2063,Male,26,Expat,Master's,70,Marketing Assistant,1,2023-07-28,5550,Yes
+2064,Male,22,Expat,Diploma,70,Marketing Assistant,1,2025-07-23,6600,No
+2065,Female,28,Expat,Bachelor's,70,Marketing Executive,2,2020-12-26,9850,No
+2066,Female,34,Expat,Bachelor's,70,Marketing Executive,2,2025-03-12,9300,No
+2067,Female,30,Expat,Bachelor's,70,Marketing Assistant,1,2024-02-01,6700,No
+2068,Female,30,Expat,Bachelor's,70,Marketing Manager,3,2024-06-03,24750,No
+2069,Male,24,Expat,Bachelor's,70,Marketing Assistant,1,2024-12-26,6050,No
+2070,Female,27,Expat,High School,70,Marketing Assistant,1,2024-03-05,6200,No
+2071,Male,38,Expat,Bachelor's,70,Marketing Executive,2,2020-12-14,10000,No
+2072,Male,34,Expat,Master's,70,Marketing Executive,2,2025-06-14,10350,No
+2073,Female,21,Expat,Bachelor's,70,Marketing Assistant,1,2018-01-21,6050,No
+2074,Male,32,Expat,Diploma,70,Marketing Manager,3,2024-12-12,17250,No
+2075,Male,28,Expat,Bachelor's,70,Marketing Assistant,1,2024-03-05,5100,No
+2076,Female,39,Expat,High School,70,Marketing Manager,3,2017-08-24,24300,No
+2077,Female,25,Expat,Bachelor's,70,Marketing Assistant,1,2019-07-14,7200,Yes
+2078,Female,33,Expat,Bachelor's,70,Marketing Executive,2,2024-06-15,8700,No
+2079,Female,31,Expat,Diploma,70,Marketing Assistant,1,2016-01-13,7400,No
+2080,Male,32,Expat,Bachelor's,70,Marketing Executive,2,2024-07-17,13600,No
+2081,Female,21,Expat,Diploma,70,Marketing Assistant,1,2019-06-16,4650,No
+2082,Male,43,Expat,High School,70,Marketing Manager,3,2024-07-04,25450,Yes
+2083,Male,23,Expat,Bachelor's,70,Marketing Assistant,1,2016-04-09,6750,Yes
+2084,Female,33,Expat,Master's,70,Marketing Assistant,1,2024-07-01,5150,No
+2085,Female,37,UAE National,High School,70,Marketing Assistant,1,2019-07-17,6200,No
+2086,Female,35,Expat,Bachelor's,70,Marketing Assistant,1,2017-11-10,4850,No
+2087,Female,22,Expat,High School,70,Marketing Assistant,1,2016-08-30,4800,No
+2088,Male,36,UAE National,Bachelor's,70,Marketing Executive,2,2021-10-05,9500,No
+2089,Female,28,Expat,Bachelor's,70,Marketing Assistant,1,2025-03-07,5500,No
+2090,Female,35,Expat,Diploma,70,Marketing Executive,2,2023-09-29,10600,No
+2091,Male,38,Expat,Bachelor's,70,Marketing Executive,2,2020-11-13,11700,No
+2092,Male,29,Expat,Bachelor's,70,Marketing Assistant,1,2021-12-15,7350,No
+2093,Female,29,Expat,Diploma,70,Marketing Assistant,1,2020-08-19,6000,No
+2094,Male,26,Expat,Diploma,70,Marketing Executive,2,2023-01-10,13600,No
+2095,Male,30,Expat,Bachelor's,70,Marketing Assistant,1,2024-05-28,6250,No
+2096,Female,46,Expat,Bachelor's,70,Marketing Manager,3,2023-06-01,22400,No
+2097,Male,34,Expat,High School,70,Marketing Executive,2,2021-03-17,11000,No
+2098,Male,31,Expat,Bachelor's,70,Marketing Manager,3,2025-07-17,21700,No
+2099,Male,34,Expat,Bachelor's,70,Marketing Manager,3,2019-04-13,21700,No
+2100,Male,45,Expat,Bachelor's,70,Marketing Director,4,2024-07-11,41450,No
+2101,Male,27,UAE National,Diploma,70,Marketing Assistant,1,2016-05-16,6500,No
+2102,Male,44,Expat,High School,70,Marketing Manager,3,2024-06-11,15950,Yes
+2103,Male,32,Expat,Bachelor's,70,Marketing Executive,2,2016-05-07,12650,No
+2104,Male,21,Expat,Diploma,70,Marketing Executive,2,2017-03-20,10900,No
+2105,Male,35,Expat,Bachelor's,70,Marketing Assistant,1,2019-11-13,6900,No
+2106,Male,25,Expat,High School,70,Marketing Assistant,1,2023-12-24,7300,No
+2107,Male,25,Expat,Master's,70,Marketing Assistant,1,2021-06-20,5400,No
+2108,Male,34,Expat,Bachelor's,70,Marketing Executive,2,2021-08-16,12600,No
+2109,Female,43,Expat,Master's,70,Marketing Executive,2,2020-02-26,12600,No
+2110,Male,27,Expat,Bachelor's,70,Marketing Assistant,1,2022-12-29,4700,No
+2111,Male,33,Expat,High School,70,Marketing Assistant,1,2020-01-12,4650,No
+2112,Male,45,Expat,Master's,70,Marketing Manager,3,2017-04-23,24150,No
+2113,Male,40,UAE National,Diploma,70,Marketing Manager,3,2024-09-30,17850,No
+2114,Male,31,Expat,Diploma,70,Marketing Executive,2,2019-08-25,8100,No
+2115,Male,29,Expat,Diploma,70,Marketing Executive,2,2021-10-08,8750,No
+2116,Male,36,Expat,Bachelor's,70,Marketing Executive,2,2024-12-29,13900,No
+2117,Male,32,Expat,Diploma,70,Marketing Assistant,1,2024-12-15,5800,Yes
+2118,Male,37,Expat,Diploma,70,Marketing Executive,2,2020-01-19,13900,No
+2119,Male,33,Expat,Bachelor's,70,Marketing Executive,2,2023-07-07,10100,No
+2120,Male,28,Expat,Bachelor's,70,Marketing Assistant,1,2024-06-17,6750,No
+2121,Male,24,Expat,Bachelor's,70,Marketing Assistant,1,2024-06-26,4900,No
+2122,Female,34,Expat,Diploma,70,Marketing Executive,2,2024-06-13,11750,No
+2123,Male,29,Expat,Diploma,70,Marketing Assistant,1,2021-03-23,5000,No
+2124,Male,24,Expat,Bachelor's,70,Marketing Assistant,1,2024-10-14,6200,No
+2125,Female,26,Expat,Master's,70,Marketing Assistant,1,2019-10-28,6800,No
+2126,Female,37,Expat,Diploma,70,Marketing Manager,3,2021-04-26,18350,No
+2127,Female,35,Expat,Bachelor's,70,Marketing Assistant,1,2016-02-06,5950,No
+2128,Female,33,Expat,Bachelor's,70,Marketing Manager,3,2025-04-29,16650,Yes
+2129,Male,25,Expat,Bachelor's,70,Marketing Assistant,1,2024-10-09,4850,No
+2130,Female,28,Expat,Bachelor's,70,Marketing Executive,2,2023-06-04,8150,No
+2131,Female,35,Expat,Bachelor's,70,Marketing Executive,2,2023-10-01,9650,No
+2132,Male,28,Expat,High School,70,Marketing Assistant,1,2021-04-07,7450,No
+2133,Male,43,Expat,Diploma,70,Marketing Executive,2,2022-08-23,10300,No
+2134,Male,38,Expat,Diploma,70,Marketing Executive,2,2018-03-10,12750,No
+2135,Female,30,Expat,Bachelor's,70,Marketing Executive,2,2023-03-06,11350,No
+2136,Female,37,Expat,Bachelor's,70,Marketing Executive,2,2018-09-03,12950,No
+2137,Female,33,Expat,High School,70,Marketing Executive,2,2025-03-16,9800,Yes
+2138,Female,34,Expat,Bachelor's,70,Marketing Assistant,1,2024-03-15,4600,No
+2139,Male,32,Expat,Bachelor's,70,Marketing Assistant,1,2023-01-06,5450,No
+2140,Male,38,Expat,Bachelor's,70,Marketing Executive,2,2020-03-16,10100,No
