@@ -1,0 +1,104 @@
+emp_id,dept_name,job_title,job_level,monthly_salary_aed,overtime,job_satisfaction,work_life_balance,tenure_months,risk_score
+1463,Customer Service,CS Agent,1,5450,Yes,2,1,23,9
+1872,Finance,Accountant,2,8000,Yes,1,1,3,8
+1392,Customer Service,CS Agent,1,6950,Yes,2,2,4,8
+1378,Customer Service,CS Agent,1,5500,Yes,2,2,4,8
+1080,Sales,Sales Associate,1,7250,Yes,2,2,6,8
+1552,Customer Service,CS Agent,1,5050,Yes,1,2,6,8
+1350,Customer Service,CS Executive,2,9550,Yes,2,1,7,8
+1016,Sales,Sales Associate,1,6900,Yes,2,2,8,8
+1245,Sales,Sales Manager,3,25450,Yes,2,1,8,8
+1381,Customer Service,CS Team Lead,3,18950,Yes,2,1,11,8
+2117,Marketing,Marketing Assistant,1,5800,Yes,2,2,12,8
+1441,Customer Service,CS Agent,1,6450,Yes,2,2,13,8
+1547,Customer Service,CS Agent,1,7200,Yes,1,3,14,8
+1582,Operations & Logistics,Warehouse Associate,1,7250,Yes,2,2,15,8
+1442,Customer Service,CS Agent,1,6650,Yes,2,2,17,8
+1226,Sales,Sales Associate,1,6100,Yes,2,3,17,8
+1471,Customer Service,CS Executive,2,8400,Yes,2,1,19,8
+1728,Operations & Logistics,Logistics Coordinator,2,12300,Yes,2,1,21,8
+1784,Operations & Logistics,Warehouse Associate,1,7400,Yes,2,2,22,8
+1594,Operations & Logistics,Warehouse Associate,1,6150,Yes,1,2,23,8
+1954,IT,Developer,2,8750,Yes,2,2,6,7
+1577,Operations & Logistics,Logistics Coordinator,2,13300,Yes,2,3,7,7
+1525,Customer Service,CS Agent,1,4650,Yes,4,1,7,7
+2128,Marketing,Marketing Manager,3,16650,Yes,2,2,8,7
+1832,Finance,Accounts Assistant,1,5550,Yes,3,1,9,7
+1749,Operations & Logistics,Logistics Coordinator,2,8900,Yes,2,3,9,7
+1782,Operations & Logistics,Warehouse Associate,1,6800,Yes,3,1,12,7
+1391,Customer Service,CS Agent,1,5700,Yes,3,1,12,7
+1930,Human Resources,HR Assistant,1,4950,Yes,3,1,14,7
+1254,Sales,Sales Director,4,44350,Yes,2,2,15,7
+1750,Operations & Logistics,Logistics Coordinator,2,9850,Yes,2,2,17,7
+1718,Operations & Logistics,Warehouse Associate,1,6200,Yes,4,1,17,7
+2102,Marketing,Marketing Manager,3,15950,Yes,2,2,18,7
+1661,Operations & Logistics,Logistics Coordinator,2,13150,Yes,1,3,18,7
+1615,Operations & Logistics,Logistics Coordinator,2,11000,Yes,2,2,19,7
+1620,Operations & Logistics,Operations Supervisor,3,21550,Yes,1,2,21,7
+1910,Human Resources,HR Assistant,1,5300,Yes,4,1,22,7
+1793,Operations & Logistics,Logistics Coordinator,2,8900,Yes,2,2,22,7
+1312,Customer Service,CS Agent,1,5400,Yes,2,1,38,7
+1886,Finance,Accounts Assistant,1,5950,Yes,2,1,39,7
+1199,Sales,Sales Associate,1,4600,Yes,2,1,57,7
+1230,Sales,Sales Associate,1,4950,Yes,2,1,60,7
+1477,Customer Service,CS Agent,1,6150,Yes,1,1,65,7
+1882,Finance,Accounts Assistant,1,5150,Yes,2,1,68,7
+1741,Operations & Logistics,Warehouse Associate,1,7500,Yes,2,1,71,7
+1759,Operations & Logistics,Warehouse Associate,1,4600,Yes,2,1,79,7
+1545,Customer Service,CS Agent,1,6900,Yes,2,1,85,7
+1421,Customer Service,CS Agent,1,6000,Yes,1,1,112,7
+1790,Operations & Logistics,Warehouse Associate,1,5700,Yes,3,3,4,6
+1365,Customer Service,CS Agent,1,5100,Yes,4,2,5,6
+1495,Customer Service,CS Agent,1,5800,Yes,4,3,6,6
+1156,Sales,Sales Associate,1,6800,Yes,4,2,6,6
+1580,Operations & Logistics,Logistics Coordinator,2,13600,Yes,3,1,6,6
+1851,Finance,Accounts Assistant,1,6000,Yes,4,2,6,6
+1712,Operations & Logistics,Warehouse Associate,1,6850,Yes,3,2,6,6
+1787,Operations & Logistics,Warehouse Associate,1,4550,Yes,4,3,7,6
+1294,Sales,Sales Associate,1,7450,No,1,1,9,6
+1739,Operations & Logistics,Warehouse Associate,1,6500,Yes,4,3,12,6
+2124,Marketing,Marketing Assistant,1,6200,No,2,1,14,6
+1440,Customer Service,CS Agent,1,7200,No,2,1,14,6
+1595,Operations & Logistics,Logistics Coordinator,2,9450,Yes,4,1,15,6
+1614,Operations & Logistics,Warehouse Associate,1,6900,No,2,1,16,6
+1962,IT,IT Support,1,4600,Yes,4,2,16,6
+1558,Customer Service,CS Executive,2,11450,Yes,3,1,16,6
+2058,IT,Developer,2,11350,Yes,4,1,16,6
+1500,Customer Service,CS Agent,1,6750,No,1,1,17,6
+1928,Human Resources,HR Assistant,1,6250,Yes,4,3,18,6
+1730,Operations & Logistics,Warehouse Associate,1,5350,Yes,4,3,18,6
+1748,Operations & Logistics,Warehouse Associate,1,7100,Yes,3,3,19,6
+1529,Customer Service,CS Executive,2,8050,Yes,3,1,19,6
+1297,Sales,Sales Associate,1,7500,Yes,4,3,19,6
+1955,IT,Developer,2,13600,Yes,4,1,19,6
+1394,Customer Service,CS Executive,2,8950,Yes,3,1,20,6
+1177,Sales,Sales Manager,3,15550,Yes,1,1,25,6
+1968,IT,Developer,2,11450,Yes,2,1,29,6
+1487,Customer Service,CS Agent,1,7400,Yes,2,2,30,6
+1181,Sales,Sales Associate,1,5400,Yes,1,2,31,6
+1813,Finance,Accounts Assistant,1,5150,Yes,2,3,31,6
+1480,Customer Service,CS Agent,1,5500,Yes,2,2,32,6
+1598,Operations & Logistics,Warehouse Associate,1,5850,Yes,1,2,33,6
+1667,Operations & Logistics,Operations Supervisor,3,20000,Yes,2,1,36,6
+1185,Sales,Sales Associate,1,5900,Yes,1,2,40,6
+1409,Customer Service,CS Agent,1,5350,Yes,2,2,51,6
+1640,Operations & Logistics,Logistics Coordinator,2,12450,Yes,1,1,53,6
+1641,Operations & Logistics,Warehouse Associate,1,7000,Yes,1,3,59,6
+1310,Customer Service,CS Agent,1,5500,Yes,2,2,63,6
+1556,Customer Service,CS Agent,1,7450,Yes,2,2,69,6
+1041,Sales,Sales Associate,1,5800,Yes,1,3,69,6
+1267,Sales,Sales Executive,2,9850,Yes,1,1,77,6
+1142,Sales,Sales Executive,2,12850,Yes,2,1,83,6
+1064,Sales,Sales Associate,1,5350,Yes,2,2,83,6
+1327,Customer Service,CS Executive,2,12500,Yes,2,1,94,6
+1454,Customer Service,CS Agent,1,6650,Yes,1,3,94,6
+1228,Sales,Sales Associate,1,6400,Yes,2,3,95,6
+1719,Operations & Logistics,Warehouse Associate,1,5100,Yes,2,2,95,6
+1879,Finance,Accounts Assistant,1,6650,Yes,2,3,96,6
+1283,Sales,Sales Associate,1,6350,Yes,1,3,96,6
+1253,Sales,Sales Associate,1,6000,Yes,2,2,98,6
+1788,Operations & Logistics,Warehouse Associate,1,7300,Yes,2,2,99,6
+2051,IT,IT Support,1,6350,Yes,2,2,103,6
+1384,Customer Service,CS Agent,1,6600,Yes,2,2,110,6
+1638,Operations & Logistics,Warehouse Associate,1,5750,Yes,2,2,114,6
+1449,Customer Service,CS Agent,1,7350,Yes,1,3,118,6
